@@ -15,8 +15,8 @@ hero-background-class: tannerlabs
 
 <div class="body body-2">
     <p>It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?</p>
-    <p>I approached <a href="http://gilbertlee.org" title="Gilbert Lee">Gilbert Lee</a> with these questions. He is a former employee of the LDS Church (where I work now) and a VP of Digital Design for Tanner Labs. I hoped he would have some ideas how I could move toward the kind of success they’re seeing with Tanner Labs.<br></p>
-    <p>Gilbert was very gracious with his time and advice. Here are a few simple things that set the stage for the success of his design team.<br></p>
+    <p>I approached <a href="http://gilbertlee.org" title="Gilbert Lee">Gilbert Lee</a> with these questions. He is a former employee of the LDS Church (where I work now) and a VP of Digital Design for Tanner Labs. I hoped he would have some ideas how I could move toward the kind of success they’re seeing with Tanner Labs.</p>
+    <p>Gilbert was very gracious with his time and advice. Here are a few simple things that set the stage for the success of his design team.</p>
     <p><strong>1. No Meetings in the Morning&nbsp;</strong></p>
     <p>Meetings can wait. Let’s do some actual work.&nbsp;</p>
     <p><strong>2. One Designer, One Project&nbsp;</strong></p>
@@ -27,5 +27,5 @@ hero-background-class: tannerlabs
     <p><strong>4. The Power of ‘Yes’&nbsp;</strong></p>
     <p>Often a product manager will ask for something that isn’t a good idea. Gilbert’s approach is to give them what they asked for and also give them what they should have asked for. This approach makes for a much better conversation. The client has been heard and knows it. They also know that the designer is thinking critically about the work and cares about the manager’s success. If you just show your own idea while ignoring the ideas of others, they won’t be able to see your genius.&nbsp;</p>
 	<p><strong>Thank you!</strong></p>
-    <p>I am so grateful to Gilbert for spending his time to encourage and instruct me. It gives me confidence that I can take my team in a direction that will be both challenging and rewarding. Thanks Gilbert!<br></p>
+    <p>I am so grateful to Gilbert for spending his time to encourage and instruct me. It gives me confidence that I can take my team in a direction that will be both challenging and rewarding. Thanks Gilbert!</p>
 </div>
