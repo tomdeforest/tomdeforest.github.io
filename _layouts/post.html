@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+  
+<body class="body index clearfix">
+  
+	<div class="hero post-header {% if page.hero-background-class %}{{ page.hero-background-class }} {% endif %}">
+		<h1 class="hero-name">{{ page.title }}</h1>
+	</div>
+
+	{{ content }}
+
+	{% include footer.html %}
+
+</body>
+</html>

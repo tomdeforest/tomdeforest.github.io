@@ -1,29 +1,20 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="initial-scale=1.0">
-  <title>Gilbert Lee - UX Hero</title>
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,400" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="css/standardize.css">
-  <link rel="stylesheet" href="css/index-grid.css">
-  <link rel="stylesheet" href="css/index.css">
-</head>
-<body class="body index clearfix">
-  <div class="hero">
-    <h1 class="hero-name">Gilbert Lee</h1>
-  </div>
-  <div class="thumbnail clearfix">
-    <img class="portrait" src="images/36c7922.jpg">
-  </div>
-  <p class="lead lead-1">Recently, <a href="http://tanner-labs.com" title="Tanner Labs">Tanner Labs</a> opened up their doors and invited in the public, providing me the perfect opportunity to find the support I need.</p>
-  <h2 class="series-title">UX Heroes</h2>
-  <div class="lead lead-2">
-    <p>Hi! I'm Tom DeForest. I’m a new UX manager. But I’ve never had my own UX manager. Am I doing it right? How can I know? Who can I reach out to?</p>
-    <p>This series is my attempt to answer these questions.</p>
-	<p><a href="https://twitter.com/smallandsimple">@smallandsimple</a></p>
+---
+layout: post
+title:  "John Dilworth"
+date:   2014-07-14 09:53:17
+categories: ux-heroes
+hero-background-class: ancestrydotcom
+published: false
+---
+<div class="thumbnail clearfix">
+	<img class="portrait" src="{{ "/images/36c7922.jpg" | prepend: site.baseurl }}">
 </div>
-  <div class="body body-2">
+<p class="lead lead-1">Recently, <a href="http://tanner-labs.com" title="Tanner Labs">Tanner Labs</a> opened up their doors and invited in the public, providing me the perfect opportunity to find the support I need.</p>
+
+
+{% include intro.html %}	
+
+<div class="body body-2">
     <p>It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?</p>
     <p>I approached <a href="http://gilbertlee.org" title="Gilbert Lee">Gilbert Lee</a> with these questions. He is a former employee of the LDS Church (where I work now) and a VP of Digital Design for Tanner Labs. I hoped he would have some ideas how I could move toward the kind of success they’re seeing with Tanner Labs.<br></p>
     <p>Gilbert was very gracious with his time and advice. Here are a few simple things that set the stage for the success of his design team.<br></p>
@@ -39,15 +30,3 @@
 	<p><strong>Thank you!</strong></p>
     <p>I am so grateful to Gilbert for spending his time to encourage and instruct me. It gives me confidence that I can take my team in a direction that will be both challenging and rewarding. Thanks Gilbert!<br></p>
 </div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-1815059-4', 'tomdeforest.github.io');
-  ga('send', 'pageview');
-
-</script>
-</body>
-</html>
