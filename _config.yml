@@ -1,0 +1,10 @@
+# Site settings
+title: UX Heroes
+email: tomdeforest@gmail.com
+description: "Tom DeForest attempts to answer the question, 'What does it take to be a great UX Manager?'"
+baseurl: ""
+url: "http://tomdeforest.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: none
