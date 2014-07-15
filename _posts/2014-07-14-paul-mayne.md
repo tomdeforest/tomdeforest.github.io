@@ -34,4 +34,8 @@ hero-background-class: dayone
 	
 	<p><strong>The Future</strong></p>
 	<p>What else does Paul have in store for Day One? Bloom Built is not sitting still. Paul has a great many ideas for the future of Day One and for Journaling. I look forward to the future of Day One with excitement. Thanks Paul for making a great app and for sharing your passion!</p>
+	
+	<hr>
+	
+	<p class="footnote">I&apos;d like to take a moment to thank <a href="https://twitter.com/dallaspetersen">Dallas Petersen</a>. Dallas and I used to work together at BYU. I contacted Dallas to ask him about his work with Bloom Built. He invited me to interview Paul. I really appreciate the time that both of them took. Thanks guys, you&apos;re the best!</p>
 </div>

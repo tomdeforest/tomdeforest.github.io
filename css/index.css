@@ -12,8 +12,15 @@ strong { font-weight:bold; }
 ul {
   margin-bottom: 1em;
 }
+
 ul, ul li {
 	list-style-type: disc;
+}
+
+hr {
+	border:none;
+	border-top:solid 1px #999;
+	margin:2em 0;
 }
 
 .lead {
@@ -77,6 +84,9 @@ ul, ul li {
   font-size: 0.813em;
 }
 
+.footnote {
+	font-size:.8em;
+}
 /* GILBERT LEE */
 
 	/* Links */
