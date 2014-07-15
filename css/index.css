@@ -1,17 +1,10 @@
+/* Base */
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   font: 400 1em/1.58 'Open Sans', 'Helvetica Neue', 'Helvetica', sans-serif;
   color: rgb(68, 68, 68);
 }
 
-a { 
-	color:#1F9E95;
-}
-a:hover {
-	color:#DE7816;
-	-webkit-transition: all .5s ease-out;
-	transition: all .5s ease-out;
-}
 strong { font-weight:bold; }
 
 .body p,
@@ -21,32 +14,6 @@ ul {
 }
 ul, ul li {
 	list-style-type: disc;
-}
-
-.hero {
-  position: relative;
-  float: left;
-  z-index: 1;
-  width: 100%;
-  height: 240px;
-  background-color:#DE7816;
-}
-
-.tannerlabs {
-    background-image: url('/images/tannerlabs.jpg');
-    background-size: 900px 600px;
-    background-position: center center;
-}
-
-.hero-name {
-  display: inline-block;
-  position: absolute;
-  top: 63px;
-  left: 120px;
-  font-size: 10.375em;
-  line-height: 1.38;
-  text-transform: uppercase;
-  color: rgb(255, 255, 255);
 }
 
 .lead {
@@ -109,6 +76,79 @@ ul, ul li {
   margin: 5px 0 0 10%;
   font-size: 0.813em;
 }
+
+/* GILBERT LEE */
+
+	/* Links */
+	a { 
+		color:#1F9E95;
+	}
+	a:hover {
+		color:#DE7816;
+		-webkit-transition: all .5s ease-out;
+		transition: all .5s ease-out;
+	}
+
+	/* Highlight */
+	::selection {
+	  background: rgba(222, 120, 22, .75);
+	}
+	::-moz-selection {
+	  background: rgba(222, 120, 22, .75);
+	}
+
+	/* Hero */
+	.hero {
+		position: relative;
+		float: left;
+		z-index: 1;
+		width: 100%;
+		height: 240px;
+		background-size: 900px 600px;
+	    background-position: center center;
+	}
+	.tannerlabs .hero {
+	    background-image: url('/images/tannerlabs.jpg');
+		background-color:#DE7816;
+	}
+	.hero-name {
+	  display: inline-block;
+	  position: absolute;
+	  top: 63px;
+	  left: 120px;
+	  font-size: 10.375em;
+	  line-height: 1.38;
+	  text-transform: uppercase;
+	  color: rgb(255, 255, 255);
+	}
+
+/* PAUL MAYNE */
+
+	/* Links */
+	.dayone a { 
+		color:#67C5DF;
+	}
+	.dayone a:hover {
+		color: rgb(234, 76, 137);
+	}
+
+	/* Highlights */
+	.dayone ::selection {
+	  background: rgba(234, 76, 137, .75);
+	}
+	.dayone ::-moz-selection {
+	  background: rgba(234, 76, 137, .75);
+	}
+
+	/* Hero */
+	.dayone .hero {
+	    background-image: url('/images/ADA2014Award1.jpg');
+		background-color: #67C5DF;
+	}
+	.dayone .hero-name {
+		font-size:9.75em;
+		top:73px;
+	}
 
 @media(max-width: 1085px) {
   .hero {
