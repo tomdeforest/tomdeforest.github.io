@@ -4,7 +4,7 @@ title:  "Paul Mayne"
 date:   2014-07-14 09:53:17
 categories: ux-heroes
 hero-background-class: dayone
-published: false
+<!-- published: false -->
 ---
 <div class="thumbnail clearfix">
 	<img class="portrait" src="{{ "/images/paul.jpg" | prepend: site.baseurl }}">
