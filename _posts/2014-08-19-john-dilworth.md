@@ -8,7 +8,7 @@ hero-background-class: ancestry
 <div class="thumbnail clearfix">
 	<img class="portrait" src="{{ "/images/dilworth.jpg" | prepend: site.baseurl }}">
 </div>
-<p class="lead lead-1">John Dilworth's measured approach, team-building prowess, and beautiful, meaningful work make him a UX hero.</p>
+<p class="lead lead-1"><a href="http://www.johndilworth.com" title="John Dilworth Art &amp; Design">John Dilworth</a>'s measured approach, team-building prowess, and beautiful, meaningful work make him a UX hero.</p>
 
 {% include intro.html %}	
 
