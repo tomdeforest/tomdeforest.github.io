@@ -9,7 +9,8 @@ strong { font-weight:bold; }
 
 .body p,
 .lead-2 p,
-ul {
+ul,
+blockquote {
   margin-bottom: 1em;
 }
 
@@ -160,6 +161,43 @@ hr {
 		top:73px;
 	}
 
+
+/* JOHN DILWORTH */
+	
+	blockquote {
+		border-left:solid 3px #999;
+		padding-left:1em;
+		color:#707070;
+		font-weight:bold;
+	}
+
+	/* Links */
+	.ancestry a { 
+		color:#305EC1;
+	}
+	.ancestry a:hover {
+		color:#4498BF;
+	}
+
+	/* Highlights */
+	.ancestry ::selection {
+/*	  background: rgba(234, 76, 137, .75);*/
+	  background: rgba(144, 174, 215, .5);
+	}
+	.ancestry ::-moz-selection {
+	  background: rgba(234, 76, 137, .75);
+	}
+
+	/* Hero */
+	.ancestry .hero {
+	    background-image: url('/images/rainier.jpg');
+		background-color: #34589A;
+	}
+	.ancestry .hero-name {
+		font-size:7em;
+		top:122px;
+	}
+
 @media(max-width: 1085px) {
   .hero {
     position: relative;
@@ -172,6 +210,10 @@ hr {
     right: auto;
     font-size: 9.125em;
   }
+	.ancestry .hero .hero-name {
+	    top: 122px;
+		font-size:7em;
+	}
 
   .series-title {
     margin-left: 9.98416%;
@@ -216,6 +258,10 @@ hr {
     top: 106px;
     font-size: 7.875em;
   }
+	.ancestry .hero .hero-name {
+	    top: 155px;
+		font-size:5em;
+	}
 
   .series-title {
     margin-left: 9.99936%;
@@ -256,6 +302,10 @@ hr {
     right: 96px;
     font-size: 4.75em;
   }
+	.ancestry .hero .hero-name {
+	    top: 173px;
+		font-size:4em;
+	}
 
   .series-title {
     margin-left: 9.98427%;
@@ -305,6 +355,10 @@ hr {
     margin-left: auto;
     text-align: center;
   }
+
+	.ancestry .hero .hero-name {
+		top:-2px;
+	}
 
   .series-title {
     margin-top: 24px;
@@ -368,8 +422,6 @@ hr {
   }
 
   .thumbnail {
-    left: 31.0677083333%;
-    right: auto;
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
   }
 
