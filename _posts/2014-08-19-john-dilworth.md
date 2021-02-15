@@ -10,7 +10,7 @@ hero-background-class: ancestry
 </div>
 <p class="lead lead-1"><a href="http://www.johndilworth.com" title="John Dilworth Art &amp; Design">John Dilworth</a>'s measured approach, team-building prowess, and beautiful, meaningful work make him a UX hero.</p>
 
-{% include intro.html %}	
+{% include intro-ux-heroes.html %}	
 
 <div class="body body-2">
 	<p>John has worked as Design Lead for <a href="http://ancestry.com/">Ancestry.com</a> for the past 3 years. In that time, the Ancestry.com team has tripled in size, now numbering about 15 people spread between two states, Utah and California. John works mostly from his home in Ogden, Utah and finds he&rsquo;s very productive without the distractions of an office.</p>

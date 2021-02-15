@@ -11,7 +11,7 @@ hero-background-class: tannerlabs
 <p class="lead lead-1">Recently, <a href="http://tanner-labs.com" title="Tanner Labs">Tanner Labs</a> opened up their doors and invited in the public, providing me the perfect opportunity to find the support I need.</p>
 
 
-{% include intro.html %}	
+{% include intro-ux-heroes.html %}	
 
 <div class="body body-2">
     <p>It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?</p>
