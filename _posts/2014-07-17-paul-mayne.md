@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-ux-heroes
 title:  "Paul Mayne"
 date:   2014-07-14 09:53:17
 categories: ux-heroes

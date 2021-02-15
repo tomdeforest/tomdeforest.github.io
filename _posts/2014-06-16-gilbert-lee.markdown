@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-ux-heroes
 title:  "Gilbert Lee"
 date:   2014-06-16 09:53:17
 categories: ux-heroes

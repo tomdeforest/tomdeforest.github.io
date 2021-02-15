@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-ux-heroes
 title:  "John Dilworth"
 date:   2014-08-19 09:53:17
 categories: ux-heroes
