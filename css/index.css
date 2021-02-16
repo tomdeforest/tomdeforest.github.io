@@ -1,6 +1,59 @@
 /* Base */
 body {
-  background: #EEEEEE;
-  font-family: 'Noto Serif JP', serif;
-  color: rgb(68, 68, 68);
+	background: #eee;
+	font-family: 'Noto Serif JP', serif;
+	padding: 64px;
+}
+
+/* Wordmark */
+.wordmark {
+	position: relative;
+	display: block;
+	z-index: -200;
+}
+.wordmark p {
+	position: absolute;
+}
+#wordmark {
+    font-family: "Georgia","Palatino",serif;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    font-size: 36px;
+    line-height: 1;
+    position: absolute;
+    width: 137px;
+    color: #444;
+}
+
+#wordmark b {
+	font-family: "Palatino",serif;
+    font-style: italic;
+    font-weight: normal;
+    position: absolute;
+    font-size: 54px;
+    right: 0;
+    z-index: -1; 
+    color: #FD541F; 
+}
+
+/* Typography */
+body {
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.5;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #444444;
+}
+.emphasis {
+	color: #FD541F;
+}
+
+/* Layout */
+.card {
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 32px;
+	box-shadow: 0px 4px 0px 0px #ddd;
 }

@@ -2,3 +2,4 @@ _site/
 rafts/
 .jekyll-cache/
 .DS_Store
+.vscode/
