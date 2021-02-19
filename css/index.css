@@ -7,33 +7,36 @@ body {
 
 /* Wordmark */
 .wordmark {
-	position: relative;
 	display: block;
-	z-index: -200;
+	width: 256px;
+	position: relative;
+	z-index: -20;
 }
 .wordmark p {
-	position: absolute;
+	text-align: center;
 }
-#wordmark {
+.wordmark h1 {
     font-family: "Georgia","Palatino",serif;
     text-transform: uppercase;
     letter-spacing: -2px;
     font-size: 36px;
+	font-weight: normal;
     line-height: 1;
-    position: absolute;
-    width: 137px;
+    width: 129px;
     color: #444;
+	margin: 0 auto 16px;
+	position: relative;
 }
 
-#wordmark b {
+.wordmark h1 b {
 	font-family: "Palatino",serif;
     font-style: italic;
     font-weight: normal;
-    position: absolute;
     font-size: 54px;
-    right: 0;
-    z-index: -1; 
+	position: absolute;
+    left: 96px;
     color: #FD541F; 
+	z-index: -10;
 }
 
 /* Typography */
@@ -56,4 +59,15 @@ body {
 	border-radius: 20px;
 	padding: 32px;
 	box-shadow: 0px 4px 0px 0px #ddd;
+}
+
+.divider {
+	display: block;
+	background-color: #FD541F;
+	height: 2px;
+	border-radius: 4px;
+	box-shadow: inset 0px 1px 0px rgba(0, 0, 0, 0.25);
+	width: 32px;
+	margin: 0 auto 16px;
+	border: 0;
 }
