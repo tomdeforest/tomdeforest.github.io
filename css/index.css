@@ -56,7 +56,16 @@ body {
 /* Layout */
 .container {
 	display: flex;
-	flex-flow: column nowrap;
+	justify-content: space-between;
+	flex-flow: row wrap;
+	max-width: 896px;
+	align-content: space-between;
+}
+.column-A {
+	flex-grow: 1;
+}
+.column-B {
+	/* flex-grow: 2; */
 }
 .card {
 	background-color: #fff;
