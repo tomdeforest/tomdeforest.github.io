@@ -1,14 +1,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{% if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}</title>
+	<title>{% if page.title %}{{ page.title }} - UX Hero{% else %}{{ site.title }}{% endif %}</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="description" content="{{ site.description }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 	<!-- Custom CSS -->
-	<link rel="preconnect" href="https://fonts.gstatic.com"> 
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;900&display=swap" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,400" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ "/css/standardize.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/index.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/index-grid-ux-heroes.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/index-ux-heroes.css" | prepend: site.baseurl }}">
 </head>
