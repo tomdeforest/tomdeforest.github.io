@@ -1,7 +1,9 @@
+/* todo: import custom fonts */
+
 /* Base */
 body {
 	background: #eee;
-	font-family: 'Noto Serif JP', serif;
+	font-family: 'Noto Serif JP',  "Georgia", serif;
 	padding: 64px;
 }
 
@@ -49,34 +51,51 @@ body {
 	text-align: left;
 	color: #444444;
 }
+a, a:hover, a:active, a:visited {
+	color: #FD541F;
+}
+a:hover {
+	text-decoration: underline;
+}
 .emphasis {
 	color: #FD541F;
+}
+h2, h3 {
+	margin:0 0 16px;
+	font-family: Noto Serif, "Georgia", serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 24px;
+	line-height: 33px;
+	color: #444444;
+}
+h3 {
+	margin: 0;
+	font-size: 18px;
+}
+p {
+	margin: 0 0 16px;
+}
+p:last-of-type {
+	margin-bottom: 0;
 }
 
 /* Layout */
 .container {
-	display: flex;
-	justify-content: space-between;
-	flex-flow: row wrap;
-	max-width: 896px;
-	align-content: space-between;
+	display: block;
+	max-width: 256px;
+	margin: 0 auto;
 }
-.column-A {
-	flex-grow: 1;
-}
-.column-B {
-	/* flex-grow: 2; */
-}
+
 .card {
 	background-color: #fff;
 	border-radius: 20px;
 	padding: 32px;
 	box-shadow: 0px 4px 0px 0px #ddd;
-	flex-grow: 1;
+	margin-bottom: 64px;
 }
 .card-lg {
 	padding: 64px;
-	flex: grow 2;
 }
 
 .divider {
@@ -88,4 +107,25 @@ body {
 	width: 32px;
 	margin: 0 auto 16px;
 	border: 0;
+}
+.divider.left {
+	margin: 0 0 16px 0;
+}
+
+.last-ampersand {
+	display: block;
+	width: 36px;
+	height: 36px;
+	font-family: Palatino;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 36px;
+	text-align: center;
+	/* identical to box height */
+	color: #FFFFFF;
+	background-color: #FD541F;
+	border-radius: 1000px;
+	margin: 0 auto;
+	box-shadow: 0px 2px 0px #DDDDDD;
 }
