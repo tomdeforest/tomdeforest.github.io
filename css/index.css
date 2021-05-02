@@ -61,7 +61,7 @@ a:hover {
 .emphasis {
 	color: #FD541F;
 }
-h2, h3 {
+h1, h2, h3 {
 	margin:0 0 16px;
 	font-family: Noto Serif, "Georgia", serif;
 	font-style: normal;
@@ -69,6 +69,11 @@ h2, h3 {
 	font-size: 24px;
 	line-height: 33px;
 	color: #444444;
+}
+h1 {
+	margin:0 0 32px;
+	font-size: 32px;
+	line-height: 32px;
 }
 h3 {
 	margin: 0;
@@ -79,6 +84,13 @@ p {
 }
 p:last-of-type {
 	margin-bottom: 0;
+}
+
+ul, ul li {
+	list-style: disc;
+}
+ul {
+	margin-bottom: 16px;
 }
 
 /* Layout */
