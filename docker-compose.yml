@@ -1,7 +1,7 @@
 version: '3'
 services:
   jekyll-serve:
-    image: jekyll/jekyll:pages
+    image: jekyll/jekyll:4.2.0
     volumes:
       - ".:/srv/jekyll"
     ports:
