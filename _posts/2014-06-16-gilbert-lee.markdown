@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Gilbert Lee"
+title:  Gilbert Lee
 date:   2014-06-16 09:53:17
-categories: ux-heroes
-hero-background-class: tannerlabs
+tags: [UX Hero]
+description: It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?
+image: '/images/16.jpg'
 ---
 <div class="thumbnail clearfix">
 	<img class="portrait" src="{{ "/images/36c7922.jpg" | prepend: site.baseurl }}">
@@ -11,7 +12,6 @@ hero-background-class: tannerlabs
 <p class="lead lead-1">Recently, <a href="http://tanner-labs.com" title="Tanner Labs">Tanner Labs</a> opened up their doors and invited in the public, providing me the perfect opportunity to find the support I need.</p>
 
 <div class="body body-2">
-    <p>It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?</p>
     <p>I approached <a href="http://gilbertlee.org" title="Gilbert Lee">Gilbert Lee</a> with these questions. He is a former employee of the LDS Church (where I work now) and a VP of Digital Design for Tanner Labs. I hoped he would have some ideas how I could move toward the kind of success they’re seeing with Tanner Labs.</p>
     <p>Gilbert was very gracious with his time and advice. Here are a few simple things that set the stage for the success of his design team.</p>
     <p><strong>1. No Meetings in the Morning&nbsp;</strong></p>
