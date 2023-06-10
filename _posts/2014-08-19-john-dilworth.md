@@ -4,7 +4,7 @@ layout: post
 title: John Dilworth
 description: John Dilworth's measured approach, team-building prowess, and beautiful, meaningful work make him a UX hero.
 image: '/images/18.jpg'
-tags: [UX Hero]
+tags: [UX, Mentoring]
 ---
 <div class="thumbnail clearfix">
 	<img class="portrait" src="{{ "/images/dilworth.jpg" | prepend: site.baseurl }}">

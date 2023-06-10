@@ -4,7 +4,7 @@ title:  Paul Mayne
 date:   2014-07-14 09:53:17
 description: I purchased Day One, a journaling app, on February 27, 2013. I loved it before I bought it. I love it even more now.
 image: '/images/17.jpg'
-tags: [UX Hero]
+tags: [UX, Mentoring]
 
 ---
 <div class="thumbnail clearfix">
