@@ -1,5 +1,5 @@
 ---
-layout: post-ux-heroes
+layout: post
 title:  "Paul Mayne"
 date:   2014-07-14 09:53:17
 categories: ux-heroes
@@ -9,8 +9,6 @@ hero-background-class: dayone
 	<img class="portrait" src="{{ "/images/paul.jpg" | prepend: site.baseurl }}">
 </div>
 <p class="lead lead-1">I purchased <a href="http://dayoneapp.com/" title="Day One app">Day One</a>, a journaling app, on <a href="https://dayone.me/s6uzh2">February 27, 2013</a>. I loved it before I bought it. I love it even more now.</p>
-
-{% include intro-ux-heroes.html %}	
 
 <div class="body body-2">
 	<p>Day One is the creation of Paul Mayne. Paul launched Day One into the world in March 2011.  Since launch, it has enjoyed a great deal of <a href="http://dayoneapp.com/2011/12/best-of-mac-app-store-2011/" title="Best of Mac App Store 2011 | Day One">success</a> and <a href="http://dayoneapp.com/2012/12/app-of-the-year/" title="App of the Year! | Day One">visibility</a>. Most recently, Day One was awarded the coveted <a href="https://developer.apple.com/design/awards/2014/Day-One/">Apple Design Award</a>. What started as a pet project built on a dream turned into a 7 person team that makes one of the best apps in the Mac and iOS app stores. Here is what Paul does to make me love Day One:</p>

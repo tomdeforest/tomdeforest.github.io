@@ -1,9 +1,14 @@
 ---
-layout: snst
+layout: default
+image: '/images/01.jpg'
 ---
 
-<!-- Get latest post content -->
-{% assign post = site.posts.first %}
-{% assign content = post.content %}
+{% include section-hero.html %}
 
-{{ content }}
+{% include section-projects.html %}
+
+{% include section-testimonials.html %}
+
+{% include section-blog.html %}
+
+{% include section-tags.html %}

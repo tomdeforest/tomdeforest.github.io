@@ -1,5 +1,5 @@
 ---
-layout: post-ux-heroes
+layout: post
 title:  "Gilbert Lee"
 date:   2014-06-16 09:53:17
 categories: ux-heroes
@@ -9,9 +9,6 @@ hero-background-class: tannerlabs
 	<img class="portrait" src="{{ "/images/36c7922.jpg" | prepend: site.baseurl }}">
 </div>
 <p class="lead lead-1">Recently, <a href="http://tanner-labs.com" title="Tanner Labs">Tanner Labs</a> opened up their doors and invited in the public, providing me the perfect opportunity to find the support I need.</p>
-
-
-{% include intro-ux-heroes.html %}	
 
 <div class="body body-2">
     <p>It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?</p>
