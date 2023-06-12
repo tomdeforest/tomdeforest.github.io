@@ -46,9 +46,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Tom DeForest. <span><i>Wholesome Humor & Lighthearted Englightenment</i></span> # Add the "span" tag to highlight text.
-  hero_description: Through curiosity and collaboration, I find and amplify the good. 
-  hero_image: "/images/01.jpg"
+  hero_title: <span><i>Small & Simple Things</i></span> # Add the "span" tag to highlight text.
+  hero_description: by Tom DeForest 
+  hero_image: "/images/paper-art-waves.jpg"
   hero_button_contact: Get In Touch
   hero_button_about: About Me
 
@@ -105,7 +105,7 @@ mailchimp_settings:
   mailchimp_title: Get interesting news
   mailchimp_identifier: smallandsimplethings.us21.list-manage.com/subscribe/post?u=0c40591b2049de5edad5e36ab&amp;id=3a7101c0ee&amp;f_id=004d5ae1f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp_input_text: Enter your email address
-  mailchimp_background_image: /images/subscribe-bg.jpg
+  mailchimp_background_image: /images/paper-art-sakura.jpg
 
 #-------------------------------
 # Footer Settings
