@@ -2,7 +2,7 @@
 layout: post
 title:  Gilbert Lee
 date:   2014-06-16 09:53:17
-tags: [UX, Mentoring]
+tags: [ux, mentoring]
 description: It was so inspiring to see Tanner Labs' spacious office, open to the out-of-doors; eat their delicious catered lunch; and drink in the free-thinking, dynamic vibe flowing in and out with the breeze. This is awesome! Can I do this for my team?
 image: '/images/gilbert-lee.jpg'
 ---

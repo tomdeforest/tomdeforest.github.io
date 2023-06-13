@@ -4,7 +4,7 @@ title:  Paul Mayne
 date:   2014-07-14 09:53:17
 description: I purchased Day One, a journaling app, on February 27, 2013. I loved it before I bought it. I love it even more now.
 image: '/images/paul.jpg'
-tags: [UX, Mentoring]
+tags: [ux, mentoring]
 
 ---
 <p>Day One is the creation of Paul Mayne. Paul launched Day One into the world in March 2011.  Since launch, it has enjoyed a great deal of <a href="http://dayoneapp.com/2011/12/best-of-mac-app-store-2011/" title="Best of Mac App Store 2011 | Day One">success</a> and <a href="http://dayoneapp.com/2012/12/app-of-the-year/" title="App of the Year! | Day One">visibility</a>. Most recently, Day One was awarded the coveted <a href="https://developer.apple.com/design/awards/2014/Day-One/">Apple Design Award</a>. What started as a pet project built on a dream turned into a 7 person team that makes one of the best apps in the Mac and iOS app stores. Here is what Paul does to make me love Day One:</p>

@@ -4,7 +4,7 @@ layout: post
 title: John Dilworth
 description: John Dilworth's measured approach, team-building prowess, and beautiful, meaningful work make him a UX hero.
 image: '/images/dilworth.jpg'
-tags: [UX, Mentoring]
+tags: [ux, mentoring]
 ---
 
 <p>John has worked as Design Lead for <a href="http://ancestry.com/">Ancestry.com</a> for the past 3 years. In that time, the Ancestry.com team has tripled in size, now numbering about 15 people spread between two states, Utah and California. John works mostly from his home in Ogden, Utah and finds he&rsquo;s very productive without the distractions of an office.</p>

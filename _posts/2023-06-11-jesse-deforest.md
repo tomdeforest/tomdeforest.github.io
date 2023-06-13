@@ -4,7 +4,7 @@ layout: post
 title: Jesse DeForest and the Forgotten Pilgrims
 description: There’s a group of Pilgrims that you don’t know anything about.
 image: '/images/jesse-deforest-signature.jpg'
-tags: [Genealogy]
+tags: [genealogy]
 ---
 
 ## Who are they?
