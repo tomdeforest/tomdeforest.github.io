@@ -53,32 +53,38 @@ section_projects_title: 👨🏻‍💻 Selected Works
 
 #-------------------------------
 # Testimonials Section
-section_testimonial_title: 🙂 What Clients Say
+section_testimonial_title: 🙂 What Others Say
 
 testimonial_items:
-  - name: "Carla Kenter"
-    image: "/images/client-1.jpg"
-    designation: "Professional Artist"
-    link: "https://twitter.com/"
-    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+  - name: "Ali Roberts"
+    image: "/images/ali-roberts.jpeg"
+    designation: "Head of Design"
+    link: "https://www.linkedin.com/in/aliciawilkin/"
+    content : "I was very impressed with Tom's leadership during the time he worked as my manager. Members of his team felt valued because he carefully took their input into consideration when designing and making management decisions. The same goes for people that participated in user research sessions. Tom has an excellent understanding of the design process, and how to discover and design around user needs. He makes quality decisions supported by careful research and data collection, both as a manager and as a design leader. Besides being a skilled professional, Tom is kind, friendly, and patient. On many occasions he coached me to improve my own skills, which I am very grateful for. It was a pleasure to work with Tom. "
 
-  - name: "Kierra Botosh"
-    image: "/images/client-2.jpg"
-    designation: "Growth & Community"
-    link: "https://facebook.com/"
-    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
-
-  - name: "Randy Herwitz"
-    image: "/images/client-3.jpg"
-    designation: "Executive Assistant"
-    link: "https://twitter.com/"
-    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
-
-  - name: "Hanna Franci"
-    image: "/images/client-4.jpg"
+  - name: "Lindy Moes"
+    image: "/images/lindy-moes.jpeg"
     designation: "Product Designer"
-    link: "https://twitter.com/"
-    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+    link: "https://www.linkedin.com/in/lindy-moes-437a52ba/"
+    content : "Tom was a terrific manager to work for and learn from. He asks the right questions that will help the end user. He establishes good relationships with other departments with his relatable personality. As a manager he is empathetic to where I was as an intern and was always willing to give valuable feedback on my work as a designer. He has had a large influence on my career by helping me to pay close attention to small details."
+
+  - name: "Brian Walton"
+    image: "/images/brian-walton.jpeg"
+    designation: "Artist, Board Game Designer, UX Designer"
+    link: "https://www.linkedin.com/in/brian-walton-48922a6b/"
+    content : "Working with Tom was an amazing experience, that shaped who I am as a designer today. As a leader, he facilitated the growth of his team through hands on learning. He let me explore and work through important projects, offering guidance and insights along the way. Tom taught me the importance of being the user’s advocate in design, and he showed this in the work he produced. I don’t think there could be an easier or more reasonable person to work with. Tom was always professional and respectful, while also uncompromising when it comes to addressing the needs of the user."
+
+  - name: "Peter Nielsen"
+    image: "/images/peter-nielsen.jpeg"
+    designation: "Quality Assurance Engineer"
+    link: "https://www.linkedin.com/in/peternielson/"
+    content : "Tom's innate ability to mentor, understand customers, and simplify technological complexities easily set him above the competition. He successfully mediates between the multitude of opinions to somehow make everyone happy and still set the customer first with a consistent design. I've never known a team member to not confide in and grow under Tom."
+
+  - name: "Reanna Travato"
+    image: "/images/reanna-travato.jpeg"
+    designation: "UX Research + Design Consultant for E-commerce Brands"
+    link: "https://www.linkedin.com/in/reannatrovato/"
+    content : "I appreciated how Tom trusted me with real-world projects, rather than busy work. Even with his many years of experience in the field, he never gave the impression that his opinion was more important than anyone else on the team. He is definitely a team player and seeks to build others on the team. He set an example of continued education and staying up-to-date with the industry."
 
 
 #-------------------------------
