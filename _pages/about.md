@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/01-1.jpg'
 ---
 
-Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest. Through curiosity and collaboration, I find and amplify good.
+Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. Through curiosity and collaboration I find and amplify good.
 
 Here are a few of my areas of interest:
 
