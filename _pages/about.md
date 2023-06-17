@@ -5,12 +5,12 @@ permalink: /about/
 image: '/images/01-1.jpg'
 ---
 
-Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. Through curiosity and collaboration I find and amplify good.
+Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. Through creativity, curiosity, and collaboration I find and amplify good. I alliterate whenever possible.
 
 Here are a few of my areas of interest:
 
 ## Design
-- Graphic Tees
+- [T-shirt Design]({{site.baseurl}}/project/t-shirt-design)
 - Graphic Design
 - Brand Design
 - Typography & Fonts
