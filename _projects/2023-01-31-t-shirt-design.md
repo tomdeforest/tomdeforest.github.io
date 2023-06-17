@@ -1,11 +1,11 @@
 ---
 title: T-shirt Design
 subtitle: Design & Illustration
-summary: Wholesome humor with a little lighthearted englightenment
+summary: Designing t-shirts for fun and profit! Well, at least it's fun.
 client: Passion Project
 tools: Canva, Affinity Designer, Procreate
 date: 2023-01-31 08:01:35
-image: '/images/tee-shop-cotton-bureau.png'
+image: '/images/tee-stay-salty-md.jpeg'
 ---
 
 I love t-shirt design! My idea of a good time is being alone in my studio *in flow* working on a funny t-shirt design. I know, I know. The nerd force is strong with me, but what can I say.
