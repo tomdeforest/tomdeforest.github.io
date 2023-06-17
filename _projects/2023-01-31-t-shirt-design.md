@@ -1,5 +1,5 @@
 ---
-title: T-Shirt Design
+title: T-shirt Design
 subtitle: Design & Illustration
 summary: Wholesome humor with a little lighthearted englightenment
 client: Passion Project
