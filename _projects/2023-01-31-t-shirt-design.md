@@ -2,7 +2,7 @@
 title: T-shirt Design
 subtitle: Design & Illustration
 summary: Designing t-shirts for fun and profit! Well, at least it's fun.
-client: Passion Project
+client: Myself
 tools: Canva, Affinity Designer, Procreate
 date: 2023-01-31 08:01:35
 image: '/images/tee-stay-salty-md.jpeg'
