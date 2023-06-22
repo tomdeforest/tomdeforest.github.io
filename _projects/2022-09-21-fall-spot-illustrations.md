@@ -1,10 +1,10 @@
 ---
-title: Autumn Season
-subtitle: Vectors
-summary: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.
-client: Anvod Studio
-tools: 1. Illustrator 2. Procreate
-date: 2023-01-06 08:01:35 +0300
+title: Fall Spot Illustrations
+subtitle: Illustration
+summary: A series of spot illustrations for the fall season.
+client: Stock for Sale
+tools: Procreate
+date: 2022-09-21 08:01:35 +0300
 image: '/images/project-5.jpg'
 ---
 
