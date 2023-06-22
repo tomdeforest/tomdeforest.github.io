@@ -6,6 +6,7 @@ client: Myself
 tools: Canva, Affinity Designer, Procreate
 date: 2023-01-31 08:01:35
 image: '/images/tee-stay-salty-md.jpeg'
+# image: '/images/4x6-test.jpeg'
 ---
 
 I love t-shirt design! My idea of a good time is being alone in my studio *in flow* working on a funny t-shirt design. I know, I know. The nerd force is strong with me, but what can I say.
