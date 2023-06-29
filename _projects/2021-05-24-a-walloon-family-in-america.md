@@ -8,6 +8,8 @@ date: 2021-05-24 08:01:35 +0300
 image: '/images/jesse-deforest-signature.jpg'
 ---
 
+Jesse DeForest inspired his family and many other Walloons to flee religious persecution in Europe and establish a colony in the new world.
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/round-robin-jesse-deforest.jpeg" loading="lazy" alt="Project">
