@@ -21,4 +21,4 @@ Jesse DeForest inspired his family and many other Walloons to flee religious per
   <em>Jesse DeForest's signature on the round robin document.</em>
 </div>
 
-In the early 1900s, the history of Jesse DeForest and the Walloon Fathers was captured in a well written book. In 2021, my daughter and I reformatted the book as an epub. Next year on May 24 is the 400th anniversary of the Walloons' arrival. I plan on celebrating by being in New York at the [Walloon Settlers monument](https://nycgovparks.org/parks/battery-park/monuments/1647) in Battery Park on that day. I hope to see you there!
+In the early 1900s, the history of Jesse DeForest and the Walloon Fathers was captured in a well written book. In 2021, my daughter and I reformatted the book as an [epub](https://github.com/tomdeforest/walloon-epub). Next year on May 24 is the 400th anniversary of the Walloons' arrival. I plan on celebrating by being in New York at the [Walloon Settlers monument](https://nycgovparks.org/parks/battery-park/monuments/1647) in Battery Park on that day. I hope to see you there!
