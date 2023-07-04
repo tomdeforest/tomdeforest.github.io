@@ -1,0 +1,145 @@
+#-------------------------------
+# Site Settings
+title: Small & Simple Things
+logo: "/images/silcrow.png" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/silcrow.png"
+description: Small & Simple Things by Tom DeForest
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author_name: Tom DeForest
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "About"
+      url: "/about/"
+
+#-------------------------------
+# Social Settings
+social:
+- {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/smallandsimplethings.org_/"}
+- {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/smallandsimple"}
+- {icon: "fa-brands fa-cotton-bureau", link: "https://cottonbureau.com/people/small-simple-things"}
+
+# Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: <span><i>Small & Simple Things</i></span> # Add the "span" tag to highlight text.
+  hero_description: by Tom DeForest 
+  hero_image: "/images/paper-art-waves.jpg"
+  hero_button_contact: Get In Touch
+  hero_button_about: About Me
+
+
+#-------------------------------
+# Projects Settings
+section_projects_title: 👨🏻‍💻 Selected Works
+
+
+#-------------------------------
+# Testimonials Section
+section_testimonial_title: 🙂 What Others Say
+
+testimonial_items:
+  - name: "Ali Roberts"
+    image: "/images/ali-roberts.jpeg"
+    designation: "Head of Design"
+    link: "https://www.linkedin.com/in/aliciawilkin/"
+    content : "I was very impressed with Tom's leadership during the time he worked as my manager. Members of his team felt valued because he carefully took their input into consideration when designing and making management decisions. The same goes for people that participated in user research sessions. Tom has an excellent understanding of the design process, and how to discover and design around user needs. He makes quality decisions supported by careful research and data collection, both as a manager and as a design leader. Besides being a skilled professional, Tom is kind, friendly, and patient. On many occasions he coached me to improve my own skills, which I am very grateful for. It was a pleasure to work with Tom. "
+
+  - name: "Lindy Moes"
+    image: "/images/lindy-moes.jpeg"
+    designation: "Product Designer"
+    link: "https://www.linkedin.com/in/lindy-moes-437a52ba/"
+    content : "Tom was a terrific manager to work for and learn from. He asks the right questions that will help the end user. He establishes good relationships with other departments with his relatable personality. As a manager he is empathetic to where I was as an intern and was always willing to give valuable feedback on my work as a designer. He has had a large influence on my career by helping me to pay close attention to small details."
+
+  - name: "Brian Walton"
+    image: "/images/brian-walton.jpeg"
+    designation: "Artist, Board Game Designer, UX Designer"
+    link: "https://www.linkedin.com/in/brian-walton-48922a6b/"
+    content : "Working with Tom was an amazing experience, that shaped who I am as a designer today. As a leader, he facilitated the growth of his team through hands on learning. He let me explore and work through important projects, offering guidance and insights along the way. Tom taught me the importance of being the user’s advocate in design, and he showed this in the work he produced. I don’t think there could be an easier or more reasonable person to work with. Tom was always professional and respectful, while also uncompromising when it comes to addressing the needs of the user."
+
+  - name: "Peter Nielsen"
+    image: "/images/peter-nielsen.jpeg"
+    designation: "Quality Assurance Engineer"
+    link: "https://www.linkedin.com/in/peternielson/"
+    content : "Tom's innate ability to mentor, understand customers, and simplify technological complexities easily set him above the competition. He successfully mediates between the multitude of opinions to somehow make everyone happy and still set the customer first with a consistent design. I've never known a team member to not confide in and grow under Tom."
+
+  - name: "Reanna Travato"
+    image: "/images/reanna-travato.jpeg"
+    designation: "UX Research + Design Consultant for E-commerce Brands"
+    link: "https://www.linkedin.com/in/reannatrovato/"
+    content : "I appreciated how Tom trusted me with real-world projects, rather than busy work. Even with his many years of experience in the field, he never gave the impression that his opinion was more important than anyone else on the team. He is definitely a team player and seeks to build others on the team. He set an example of continued education and staying up-to-date with the industry."
+
+
+#-------------------------------
+# Blog Section
+section_blog_title: 📚 Read Latest Posts
+#-------------------------------
+
+
+# Tags Section
+section_tags_title: ✌️ Explore Topics
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp_settings:
+  enable: true
+  mailchimp_title: Get interesting news
+  mailchimp_identifier: smallandsimplethings.us21.list-manage.com/subscribe/post?u=0c40591b2049de5edad5e36ab&amp;id=3a7101c0ee&amp;f_id=004d5ae1f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp_input_text: Enter your email address
+  mailchimp_background_image: /images/paper-art-sakura.jpg
+
+#-------------------------------
+# Footer Settings
+footer_description: I’m Tom DeForest, and I'm glad you're here. Through curiosity and collaboration I find and amplify good.
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "About"
+      url: "/about/"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: smallandsimplethings@proton.me # Add your form_id
+  description: Simpler comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Simpler theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
