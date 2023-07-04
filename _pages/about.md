@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-1.jpg'
+image: '/images/froever.jpeg'
 ---
 
 Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. Through creativity, curiosity, and collaboration I find and amplify good. I alliterate whenever possible.
