@@ -6,6 +6,7 @@ client: Myself
 tools: HTML, CSS
 date: 2011-01-07 08:01:35 +0300
 image: '/images/project-4.jpg'
+published: false
 ---
 
 <div class="gallery-box">

@@ -4,6 +4,7 @@ subtitle: Design
 summary: I designed a letterpress Christmas card to give to family and friends.
 date: 2011-12-25 08:01:35 +0300
 image: '/images/project-6.jpg'
+published: false
 ---
 
 Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec lacus viverran, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus enim ultrices.
