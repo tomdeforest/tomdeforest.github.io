@@ -11,7 +11,7 @@ Here are a few of my areas of interest:
 
 ## Family and Genealogy
 
-I am happpily married for 25 years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage [they've left me](/project/a-walloon-family-in-america).
+I am happily married for 25 years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage [they've left me](/project/a-walloon-family-in-america).
 
 ## Design
 
