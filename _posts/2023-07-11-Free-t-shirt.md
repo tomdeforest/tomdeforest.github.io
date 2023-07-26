@@ -18,7 +18,7 @@ I love designing t-shirts and selling them on [Cotton Bureau](https://cottonbure
 
 ## But wait! There's more!
 
-You can use [my secret discount code](https://cottonbureau.com/account#/discounts/563783) for $5 off Cotton Bureau products. (Discount is only valid for new Cotton Bureau users).
+You can use [my secret discount code](https://cottonbureau.com/?discount=SNTYNB5PJB) for $5 off Cotton Bureau products. (Discount is only valid for new Cotton Bureau users).
 
 Isn't this fun!?
 
