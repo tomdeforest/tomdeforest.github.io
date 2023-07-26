@@ -18,12 +18,7 @@ I love designing t-shirts and selling them on [Cotton Bureau](https://cottonbure
 
 ## But wait! There's more!
 
-You can also get access to my secret discount code for $5 off Cotton Bureau products. (Discount is only valid for new Cotton Bureau users).
-
-To get access to this discount code, do the following:
-1. Follow me on [Instagram](https://www.instagram.com/smallandsimplethings.org_/).
-1. DM me with the top secret passphrase, "Please send me the $5 discount code!"
-1. I will reply with the code.
+You can use [my secret discount code](https://cottonbureau.com/account#/discounts/563783) for $5 off Cotton Bureau products. (Discount is only valid for new Cotton Bureau users).
 
 Isn't this fun!?
 
