@@ -3,7 +3,7 @@ date:   2006-07-02 19:39:00
 layout: post
 title: Every Web Designer Should Be Religious
 description: 
-image: '/images/turtle-tshirt-1024.jpg'
+image: '/images/turtle-tshirt-4-3.jpg'
 tags: [faith]
 ---
 
