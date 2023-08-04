@@ -15,7 +15,7 @@ I approached <a href="http://gilbertlee.org" title="Gilbert Lee">Gilbert Lee</a>
 
 Gilbert was very gracious with his time and advice. Here are a few simple things that set the stage for the success of his design team.
 
-<strong>1. No Meetings in the Morning&nbsp;</strong></p>
+<strong>1. No Meetings in the Morning&nbsp;</strong>
 <p>Meetings can wait. Let’s do some actual work.&nbsp;</p>
 <p><strong>2. One Designer, One Project&nbsp;</strong></p>
 <p>Part of Gilbert’s philosophy is that a designer is only assigned to one project at a time. He really wants his designers to dive deep in a project. Designers need time to understand the business or product needs. They also need time to shepherd the product through development. Additionally, development and implementation will reveal insights that the designer can leverage to improve the overall solution. If a designer can focus on one project, they will have the time and opportunity to design a total solution.&nbsp;</p>
