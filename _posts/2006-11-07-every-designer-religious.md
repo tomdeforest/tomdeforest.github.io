@@ -3,7 +3,7 @@ date:   2006-07-02 19:39:00
 layout: post
 title: Every Web Designer Should Be Religious
 description: 
-image: '/images/turtle-with-christ.png'
+image: '/images/turtle-tshirt-1024.jpg'
 tags: [faith]
 ---
 
@@ -16,3 +16,5 @@ I feel sorry for web developers who don't pray. Internet Explorer is too much of
 ## August 2023 Update
 
 I transfered this post from my old Wordpress blog. Although technologies have matured, the principle of seeking divince guidance in the details of our lives is more relevant than ever.
+
+Also, you can buy the shirt above in my [shop](https://cottonbureau.com/p/59YAVW/shirt/turtle-can-do#/16531096/tee-men-standard-tee-black-forest-tri-blend-s)!
