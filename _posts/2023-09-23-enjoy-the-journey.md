@@ -1,7 +1,7 @@
 ---
 date:   2023-09-23 09:06:10
 layout: post
-title: Can an in-house designer become a successful entrepreneur?
+title: Can I become a successful entrepreneur?
 description: It turns out that it really is about enjoying the journey.
 image: '/images/business-rendezvous.jpg'
 tags: [design,hustle]
@@ -11,7 +11,7 @@ I am a lifelong in-house designer. But I’ve always admired those who successfu
 
 The answer so far has been, “No, Tom. You cannot start a successful business. You can’t even manage to keep succulents alive.”
 
-Last year, I fell into a rut at work. I have a really good job. I work with great people. I have good benefits. The cause is worthy. But sometimes I lose focus and forget why I’m there.
+Last year, I fell into a rut at work. I have a really good job. I work with great people. I have good benefits. The cause is worthy. But lost focus and forgot why I’m there.
 
 And so, I decided to make another go at entrepreneurship. This time, to increase my chances of success, I teamed up with a friend of mine to do the free [Start and Grow Your Business program](https://www.churchofjesuschrist.org/self-reliance/course-materials/starting-and-growing-my-business?lang%253Deng).
 
@@ -21,6 +21,19 @@ We completed the course months ago, but we keep calling in each week.  We talk a
 
 Where will the journey end? Will I become a successful business owner? I don’t know. What I can say with confidence is this: if I don’t keep going on this journey, then I will be less than I could have otherwise been. Being on this journey with God has changed me for the better. Who knows, if I keep trying maybe I can become successful at business and caring for succulents.
 
+[2 Timothy 4:7](https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/4?lang%253Deng) (KJV) “I have fought a good fight, I have finished my course, I have kept the faith.”
+
+## Enjoy the Journey
+
+![Space]({{site.baseurl}}/images/rendezvous-tee.webp)
+*[Enjoy the Journey](https://cottonbureau.com/p/XYVTWR/shirt/enjoy-the-journey#%252F18002889%252Ftee-men-standard-tee-indigo-tri-blend-s)*
+
+I created [this shirt](https://cottonbureau.com/p/XYVTWR/shirt/enjoy-the-journey#%252F18002889%252Ftee-men-standard-tee-indigo-tri-blend-s) to inspire you in whatever journey you are on. Use the following discounts to make the journey even more enjoyable.
+
+- SNTYNB5PJB - $5 off
+- BJ97AVSAH5 - 10% friends and family discount
+
+---
 
 ## Postscript
 Shoutout to Karl! Thanks for being on this journey with me.
