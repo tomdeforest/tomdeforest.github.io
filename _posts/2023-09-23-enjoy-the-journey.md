@@ -11,7 +11,7 @@ I am a lifelong in-house designer. But I’ve always admired those who successfu
 
 The answer so far has been, “No, Tom. You cannot start a successful business. You can’t even manage to keep succulents alive.”
 
-Last year, I fell into a rut at work. I have a really good job. I work with great people. I have good benefits. The cause is worthy. But lost focus and forgot why I’m there.
+Last year, I fell into a rut at work. I have a really good job. I work with great people. I have good benefits. The cause is worthy. But I lost focus and forgot why I’m there.
 
 And so, I decided to make another go at entrepreneurship. This time, to increase my chances of success, I teamed up with a friend of mine to do the free [Start and Grow Your Business program](https://www.churchofjesuschrist.org/self-reliance/course-materials/starting-and-growing-my-business?lang%253Deng).
 
