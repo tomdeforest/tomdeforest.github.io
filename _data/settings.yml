@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: Small & Simple Things
-logo: "/images/silcrow.png" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "/images/silcrow.png"
+logo: "/images/logo-640x640.png" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo-640x640.png"
 description: Small & Simple Things by Tom DeForest
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
 
