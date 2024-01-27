@@ -47,4 +47,4 @@ I lived as a missionary in Japan for two years. I practice Japanese everyday in 
 
 I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [projects]({{site.baseurl}}/projects/).
 
-Maybe you'd like to [collaborate with me](mailto:smallandsimplethings@proton.me) on your next project.
+Maybe you'd like to [collaborate with me](mailto:hi@smallandsimplethings.org) on your next project.
