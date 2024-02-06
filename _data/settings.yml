@@ -20,13 +20,14 @@ menu_settings:
       url: "/"
     - title: "Projects"
       url: "/projects/"
-    - title: "Shop"
-      target: "_blank"
-      url: "https://smllsmpl.printify.me/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
       url: "/about/"
+    - title: "Shop <i class='fa-solid fa-square-up-right'></i>"
+      target: "_blank"
+      url: "https://smllsmpl.printify.me/"
+
 
 #-------------------------------
 # Social Settings
