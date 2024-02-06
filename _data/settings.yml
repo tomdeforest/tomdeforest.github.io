@@ -4,7 +4,7 @@ title: Small & Simple Things
 logo: "/images/logo-640x640.png" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-640x640.png"
 description: Small & Simple Things by Tom DeForest
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -47,7 +47,7 @@ social:
 hero:
   enable: true
   hero_title: <span>Small & Simple Things</span> # Add the "span" tag to highlight text.
-  hero_description: by Tom DeForest 
+  hero_description: 小さな簡単なこと 
   hero_image: "/images/paper-art-waves.jpg"
   hero_button_contact: Get In Touch
   hero_button_about: About Me
