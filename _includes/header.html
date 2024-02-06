@@ -35,7 +35,7 @@
               </li>
               {% else %}
               <li class="nav__item">
-                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                <a target="{{ item.target }}" href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
               </li>
               {% endif %}
             {% endfor %}
