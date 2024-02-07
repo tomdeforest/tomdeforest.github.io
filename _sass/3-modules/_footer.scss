@@ -166,7 +166,7 @@
 
 /* Widget Footer Navigation */
 .widget-nav {
-  // text-align: right;
+  text-align: right;
 
   .footer__nav-list {
     line-height: 1;
@@ -239,7 +239,9 @@
   display: flex;
   align-items: center;
 }
-
+.rss-link {
+  margin-right: 1em;
+}
 .copyright {
   margin-right: auto;
   font-size: 16px;
@@ -263,19 +265,19 @@
 }
 
 // Toggle Theme
-.toggle-theme, footer a {
+.toggle-theme {
   margin-right: 24px;
   line-height: 1;
   color: var(--heading-font-color);
   cursor: pointer;
 
   &:hover {
-    .toggle-text, span {
+    .toggle-text {
       text-decoration-color: var(--heading-font-color);
     }
   }
 
-  .toggle-text, span {
+  .toggle-text {
     margin-left: 7px;
     font-size: 16px;
     text-decoration: underline;
@@ -288,15 +290,14 @@
   @media (max-width: $tablet) {
     margin-right: 16px;
 
-    .toggle-text, span {
+    .toggle-text {
       font-size: 15px;
     }
   }
 }
 
 .toggle-sun,
-.toggle-moon,
-footer a {
+.toggle-moon {
   display: flex;
   align-items: center;
   font-size: 17px;
