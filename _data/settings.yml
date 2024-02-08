@@ -24,9 +24,8 @@ menu_settings:
       url: "/blog/"
     - title: "About"
       url: "/about/"
-    - title: "Shop <i class='fa-solid fa-square-up-right'></i>"
-      target: "_blank"
-      url: "https://smllsmpl.printify.me/"
+    - title: "Shop"
+      url: "/shop/"
 
 
 #-------------------------------
@@ -131,6 +130,8 @@ footer_menu_settings:
       url: "/blog/"
     - title: "About"
       url: "/about/"
+    - title: "Shop"
+      url: "/shop/"
 
 #-------------------------------
 # Contact Settings

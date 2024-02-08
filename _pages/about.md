@@ -39,7 +39,7 @@ This site is built in Jekyll and hosted on GitHub Pages. GitHub Codespaces makes
 
 ## Japan
 
-I lived as a missionary in Japan for two years. I practice Japanese everyday in Duolingo. I'm still planning my return trip to Japan.
+I lived as a missionary in Japan for two years. I practice Japanese everyday in Duolingo. <strike>I'm still planning my return trip to Japan.</strike> My wife and I made our dream trip to Japan in Nov 2023! It was awesome! Now I want to go back with my whole family.
 
 - Language
 - Culture

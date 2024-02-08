@@ -1,0 +1,15 @@
+.shop-container {
+    margin-bottom: 20px;
+    min-height: auto;
+    text-align: center;
+
+    .button {
+        display: block;
+    }
+    p {
+        margin: 0 20px;;
+    }
+    p:last-of-type {
+        margin-bottom: 0;
+    }
+}
