@@ -33,7 +33,7 @@ menu_settings:
 social:
 - {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/smallandsimplethings.org_/"}
 - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/smallandsimple"}
-- {icon: "fa-brands fa-cotton-bureau", link: "https://cottonbureau.com/people/small-simple-things"}
+# - {icon: "fa-brands fa-cotton-bureau", link: "https://cottonbureau.com/people/small-simple-things"}
 # - {icon: "fa-brands fa-github", link: "https://github.com/tomdeforest"}
 # - {icon: "fa-brands fa-etsy", link: "https://smllsmpl.etsy.com/"}
 # - {icon: "fa-solid fa-shirt", link: "https://smllsmpl.printify.me/"}
