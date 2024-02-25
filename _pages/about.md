@@ -12,9 +12,9 @@ Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm
 First, allow me to introduce you to the [Small & Simple Design Club](https://discord.gg/uTUUXN6djc), a private online community for designers, started in February 2024! This club’s first mission is to help you, the junior designer, level up your professional chops and start achieving your career goals. I have two decades of experience hiring interns and junior designers. I look forward to helping you launch a successful UI and UX design career. [Join the club](https://discord.gg/uTUUXN6djc) and start getting mentored for FREE!
 
 ----
-
-Read on for more details about me!
-
+<div class="about__subtitle">
+   <p><i class="fa-solid fa-arrow-down"></i> More details about me.</p>
+</div>
 <div class="container animate">
     <div class="row">
         <div class="col col-4 col-w-6 col-t-12">
