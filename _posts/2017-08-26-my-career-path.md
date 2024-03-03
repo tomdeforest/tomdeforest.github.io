@@ -4,7 +4,7 @@ layout: post
 title: 'My Design Journey So Far'
 description: My path to a successful career wasn’t simple or direct. Read on to see how grit, mentoring, and divine intervention opened the door to a rewarding career.
 image: '/images/settling-a-debate.jpeg'
-tags: [design,mentoring]
+tags: [design,mentoring,faith]
 ---
 *Photo of me demonstrating my expert management skills with one of my designers.*
 
