@@ -48,9 +48,9 @@ social:
 hero:
   enable: true
   hero_title: <span>Small & Simple Things</span> # Add the "span" tag to highlight text.
-  hero_description: 小さな簡単なこと 
+  hero_description: I'm Tom DeForest, a design leader and mentor with two decades of experience. Join my club of like-minded designers! We'll help you create a challenging, rewarding, and meaningful design career!
   hero_image: "/images/paper-art-waves.jpg"
-  hero_button_contact: Get Free Design Mentoring
+  hero_button_contact: Join the Club!
   hero_button_about: About Me
 
 
