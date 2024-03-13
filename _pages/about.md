@@ -7,33 +7,13 @@ image: '/images/froever.jpeg'
 
 Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. I'm a UX designer, design leader, and mentor with two decades of experience. Through creativity, curiosity, and collaboration I find and amplify good.
 
----
+## A brief professional history in reverse chronological order
 
-## Small & Simple Design Club
-
-![Small & Simple Design Club]({{site.baseurl}}/images/design-club-membership@2x.png)
-
-Introducing the [Small & Simple Design Club](https://smllsmpl.gumroad.com/l/club-membership?layout%253Dprofile)!
-
-### Who is it for?
-This club is a private Discord community for all types of designers. UX Design. UI Design. Interaction Design. Graphic Design. Illustrators and artists are also encouraged to join! If you're a designer or want to be one, we want you in our club! Let's ban together to meet the challenges of this creative career that we love!
-
-You'll have the opportunity to:
-
-* Network with like-minded professionals
-* Find mentors or become a mentor
-* Access job postings
-* Join live events
-* Share animated gifs
-
-### You can join today at no cost!
-
-This club’s mission is to ensure that every club member has the power to create a challenging, rewarding, and meaningful career in design. 
-
-* You can join today for free and get access to foundational, career enhancing resources. 
-* Or, if you're ready to invest in your future, you can choose an affordable paid membership. You'll get access to opportunities,  resources, and people that will enable you to take your career to the next level! Boom!
-
-I look forward to being a part of your success! [Join the club today!](https://smllsmpl.gumroad.com/l/club-membership?layout%253Dprofile)!
+- Feb 2024 - Founded the [Small & Simple Design Club]({{site.baseurl}}/blog/design-club)
+- 2011-Today - UX Designer, UX Design Manager, and Product Design Officer at my beloved church - [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang%253Deng)
+- 2005-2010 - Senior Designer and Design Manager at the [Harold B. Lee Library](https://lib.byu.edu/) on [BYU](https://www.byu.edu/) campus
+- 2000-2005 - Various freelance and professional capacities
+- 2000 - Graduated from [BYU](https://www.byu.edu/) with my BA in Design
 
 {% include section-testimonials.html %}
 
