@@ -25,3 +25,32 @@
 </div>
 <!-- end subscribe -->
 {% endif %}
+
+{% if site.data.settings.gumroad_settings.enable == true %}
+<!-- begin subscribe -->
+<div class="subscribe animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="subscribe__inner">
+          <div class="subscribe__content">
+          {% if site.data.settings.gumroad_settings.gumroad_title %}
+            <h3 class="subscribe__title">{{ site.data.settings.gumroad_settings.gumroad_title }}</h3>
+          {% endif %}
+          </div>
+          <form class="subscribe-form validate" action="https://app.gumroad.com/follow_from_embed_form" method="post" id="gumroad-follow-form-embed">
+            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+            <input type="hidden" name="seller_id" value="{{ site.data.settings.gumroad_settings.gumroad_identifier }}" /> 
+            <input id="gumroad-follow-form-embed-input" class="subscribe-email required email" type="email" placeholder="Your email address" name="email" value="" />
+            <button id="membedded-subscribe" class="subscribe-button" type="submit">Subscribe <i class="fa-solid fa-arrow-right"></i></button>
+          </form>      
+        </div>
+      </div>
+    </div>
+  </div>
+  {% if site.data.settings.gumroad_settings.gumroad_background_image %}
+    <div class="subscribe__bg lazy" data-bg="{{site.data.settings.gumroad_settings.gumroad_background_image}}"></div>
+  {% endif %}
+</div>
+<!-- end subscribe -->
+{% endif %}
