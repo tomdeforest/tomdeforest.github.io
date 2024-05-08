@@ -18,23 +18,21 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Products"
+      url: "/products/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
       url: "/about/"
-    - title: "Shop"
-      url: "/shop/"
-
 
 #-------------------------------
 # Social Settings
 social:
 - {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/smallandsimplethings.org_/"}
 - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com/smallandsimple"}
-- {icon: "fa-brands fa-discord", link: "https://discord.gg/uTUUXN6djc"}
-- {icon: "fa-brands fa-cotton-bureau", link: "https://cottonbureau.com/people/small-simple-things"}
+- {icon: "fa-brands fa-twitter", link: "https://twitter.com/smallandsimple"}
+# - {icon: "fa-brands fa-discord", link: "https://discord.gg/uTUUXN6djc"}
+# - {icon: "fa-brands fa-cotton-bureau", link: "https://cottonbureau.com/people/small-simple-things"}
 # - {icon: "fa-brands fa-github", link: "https://github.com/tomdeforest"}
 # - {icon: "fa-brands fa-etsy", link: "https://smllsmpl.etsy.com/"}
 # - {icon: "fa-solid fa-shirt", link: "https://smllsmpl.printify.me/"}
@@ -56,7 +54,7 @@ hero:
 
 #-------------------------------
 # Projects Settings
-section_projects_title: 👨🏻‍💻 Selected Works
+section_projects_title: 👨🏻‍💻 Products
 
 
 #-------------------------------
@@ -132,14 +130,12 @@ footer_menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Products"
+      url: "/products/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
       url: "/about/"
-    - title: "Shop"
-      url: "/shop/"
 
 #-------------------------------
 # Contact Settings
