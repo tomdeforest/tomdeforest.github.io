@@ -5,11 +5,10 @@ permalink: /about/
 image: '/images/froever.jpeg'
 ---
 
-Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here. I'm a UX designer, design leader, and mentor with two decades of experience. Through creativity, curiosity, and collaboration I find and amplify good.
+Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I'm Tom DeForest, and I'm glad you're here.
 
 ## A brief professional history in reverse chronological order
 
-- Feb 2024 - Founded the [Small & Simple Design Club]({{site.baseurl}}/blog/design-club)
 - 2011-Today - UX Designer, UX Design Manager, and Product Design Officer at my beloved church - [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/?lang%253Deng)
 - 2005-2010 - Senior Designer and Design Manager at the [Harold B. Lee Library](https://lib.byu.edu/) on [BYU](https://www.byu.edu/) campus
 - 2000-2005 - Various freelance and professional capacities
