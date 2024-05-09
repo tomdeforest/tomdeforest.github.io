@@ -5,6 +5,7 @@ summary: As a new UX manager, I turned to my local heroes for advice on how to d
 tools: HTML, CSS
 date: 2014-05-03 08:01:35 +0300
 image: '/images/dilworth.jpg'
+published: false
 ---
 
 [John Dilworth](/blog/john-dilworth), [Gilbert Lee](/blog/gilbert-lee), and [Paul Mayne](/blog/paul-mayne) are three Utah locals who have shown tremendous ability to lead in the UX and design space. In 2014 when I became a UX manager, I reached out to each of them to understand a little about how they work. I created a series of blog posts to help the lessons sink in and to share what I learned.
