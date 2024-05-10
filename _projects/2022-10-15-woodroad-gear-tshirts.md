@@ -1,10 +1,11 @@
 ---
-title: Woodroad Gear Co. T-shirts
+title: Woodroad Gear Co. Tees
 subtitle: Design
 summary: The owners of Woodroad Gear Co. commissioned me to design a collection of t-shirts for 2023. I aligned with their existing style and extended it to include new fonts to give a fresh feeling for the new season.
 client: Woodroad Gear Co.
 date: 2022-10-15 08:01:35 +0300
 image: '/images/unboxing-woodroad-md.jpeg'
+purchase-url: https://woodroadgear.com/
 ---
 
 I've worn Woodroad Gear Co. socks for several years. They are so comfortable and warm. They reached out last fall and asked if I would be interested in creating a few designs. 
