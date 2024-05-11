@@ -2,20 +2,30 @@
 date:   2024-05-10 19:39:00
 layout: post
 title: Friday Links
-description: A collection of the finest links from this week's internet browsing. 
-image: '/images/turtle-tshirt-4-3.jpg'
-tags: [sharing]
-# published: false
+description: A new font. Japan History (Experimental Microsite). Risograph Printing Studio. And more! 
+image: '/images/SMLLSMPL-SEMI-03.png'
+tags: [type, design, illustration]
 ---
 
-Beautiful work by this [Chinese illustrator](https://www.caperillustration.co.uk/dong-qiu).
+[SuperHeavy](https://smllsmpl.gumroad.com/l/superheavy-font) is available for purchase starting next week! As a follower of this site, you get early access. Subscribe to my email list (see form below) and you will get a free font! 😉 You can [test drive SuperHeavy on Fontstruct](https://fontstruct.com/fontstructions/show/504902/superheavy-1).
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Alphanumeric samples from the new SuperHeavy font." src="/images/SuperHeavy-AlphaNum-01.png" loading="lazy">
+    <img alt="Alphanumeric samples from the new SuperHeavy font." src="/images/SuperHeavy-AlphaNum-02.png" loading="lazy">
+  </div>
+  <em>Alphanumeric samples from the new SuperHeavy font.</em>
+</div>
+
+## More Links
+
+Beautiful work by [Dong Qiu, a Chinese illustrator](https://www.caperillustration.co.uk/dong-qiu).
 
 [Children’s book writing contest for teens](https://www.cedarfort.com/pages/childrens-book-contest).
 
-[Icon University](https://blog.streamlinehq.com/tag/icons/) 
-Learn all about how to make and use icons.
+[Icon University](https://blog.streamlinehq.com/tag/icons/). Learn all about how to make and use icons.
 
-[Open Risograph Studio](https://risogeist.com/) in SLC.
+[Open Risograph Studio](https://risogeist.com/) in SLC. I just discovered Risograph Printing. That's a tempting rabbit hole to dive into.
 
 [The Apple Startup Sound Story](https://www.youtube.com/watch?v=5838mfezO8M).
 
