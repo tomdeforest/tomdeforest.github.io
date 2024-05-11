@@ -5,31 +5,21 @@ title: Friday Links
 description: A collection of the finest links from this week's internet browsing. 
 image: '/images/turtle-tshirt-4-3.jpg'
 tags: [sharing]
-published: false
+# published: false
 ---
 
-https://www.caperillustration.co.uk/dong-qiu 
-Chinese illustrator
+Beautiful work by this [Chinese illustrator](https://www.caperillustration.co.uk/dong-qiu).
 
-https://www.cedarfort.com/pages/childrens-book-contest 
-Children’s book writing contest for teens
+[Children’s book writing contest for teens](https://www.cedarfort.com/pages/childrens-book-contest).
 
-https://blog.streamlinehq.com/tag/icons/ 
-Icon University
+[Icon University](https://blog.streamlinehq.com/tag/icons/) 
+Learn all about how to make and use icons.
 
-https://elliotjaystocks.com/book
-Universal Principles of Typography
+[Open Risograph Studio](https://risogeist.com/) in SLC.
 
-https://risogeist.com/ 
-Open Risograph Studio in SLC
+[The Apple Startup Sound Story](https://www.youtube.com/watch?v=5838mfezO8M).
 
-https://www.youtube.com/watch?v=5838mfezO8M
-The Apple Startup Sound Story
+[Unifiers of Japan Microsite](https://unifiersofjapan.framer.website/about). The design is really cool. The cursor lag is super annoying, but seems to be intentional. 🤷‍♂️
 
-https://www.youtube.com/watch?v=5838mfezO8M
+[On the need for *communicating* design](https://uxdesign.cc/good-ux-is-not-enough-without-a-proper-communication-plan-772322e7ed50).
 
-https://unifiersofjapan.framer.website/about 
-Unifiers of Japan Microsite
-
-https://uxdesign.cc/good-ux-is-not-enough-without-a-proper-communication-plan-772322e7ed50 
-On the need for *communicating* design
