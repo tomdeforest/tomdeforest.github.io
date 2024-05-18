@@ -3,7 +3,7 @@ date:   2024-05-10 19:39:00
 layout: post
 title: Friday Links
 description: A new font. Japan History (Experimental Microsite). Risograph Printing Studio. And more! 
-image: '/images/SMLLSMPL-SEMI-03.png'
+image: '/images/friday-links-superheavy.webp'
 tags: [type, design, illustration]
 ---
 
