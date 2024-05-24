@@ -3,7 +3,7 @@ date: 2024-05-16 21:00:00
 layout: post
 title: Friday Links
 description: What to do with a vacant home in Japan. The articulation barrier in AI. iPad Eye Tracking interface.
-tags: [ux,Accessibility,Japan]
+tags: [ux,accessibility,japan,friday-links]
 image: '/images/friday-links-fuji-san.webp'
 ---
 Beth Mathews on [why designers need side projects](https://www.instagram.com/p/C6cSA-5SKUj/) (“personal work”). Also, Beth is an awesome designer of vintage things. You’re welcome.
