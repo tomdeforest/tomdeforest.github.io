@@ -18,8 +18,8 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Products"
-      url: "/products/"
+    - title: "Projects"
+      url: "/projects/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
@@ -54,7 +54,7 @@ hero:
 
 #-------------------------------
 # Projects Settings
-section_projects_title: 👨🏻‍💻 Products
+section_projects_title: 👨🏻‍💻 Projects
 
 
 #-------------------------------
@@ -130,8 +130,8 @@ footer_menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Products"
-      url: "/products/"
+    - title: "Projects"
+      url: "/projects/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"

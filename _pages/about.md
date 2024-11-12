@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/froever.jpeg'
 ---
 
-Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I’m Tom DeForest, and I'm glad you're here! Small & Simple Things is my dream — my very own Design Studio! Here, I channel my creative energy to [design]({{ site.baseurl }}/products/), [write]({{ site.baseurl }}/blog/), and share good things.
+Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I’m Tom DeForest, and I'm glad you're here! Small & Simple Things is my dream — my very own Design Studio! Here, I channel my creative energy to [design]({{ site.baseurl }}/projects/), [write]({{ site.baseurl }}/blog/), and share good things.
 
 ----
 <div class="about__subtitle">
@@ -54,6 +54,6 @@ Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I�
 
 ---
 
-I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [products]({{site.baseurl}}/products/).
+I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [projects]({{site.baseurl}}/projects/).
 
 Maybe you'd like to [collaborate with me](mailto:hi@smallandsimplethings.org) on your next project.
