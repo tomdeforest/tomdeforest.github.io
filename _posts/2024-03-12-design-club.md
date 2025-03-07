@@ -5,6 +5,7 @@ title: 'The Small & Simple Design Club'
 description: What would you do for free?
 image: '/images/design-club-membership@2x.png'
 tags: [design,mentoring]
+published: false
 ---
 
 I’m so excited to share my latest project with you!
