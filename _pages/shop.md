@@ -18,14 +18,5 @@ permalink: /shop/
                 <p>SNTYNB5PJB - Cotton Bureau discount code for $5 off.</p>
             </div>
         </div>
-        <div class="row">
-            <div class="shop-container col col-4 col-w-6 col-t-12">
-                <a href="https://smllsmpl.etsy.com/" class="button" target="_blank">Etsy <i class="fa-brands fa-etsy"></i></a>
-            </div>
-            <div class="shop-container col col-4 col-w-6 col-t-12">
-                <a href="https://smllsmpl.printify.me/products" class="button" target="_blank">Printify</a>
-                <p></p>
-            </div>
-        </div>
     </div>
 </div>
