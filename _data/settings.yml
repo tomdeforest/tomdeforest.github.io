@@ -8,7 +8,7 @@ color_scheme: dark # You can choose three modes auto, light, and dark. By defaul
 
 
 #-------------------------------
-# Author Settings
+# Author Settings test
 author_name: Tom DeForest
 
 
@@ -18,8 +18,8 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Products"
+      url: "/products/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
@@ -54,8 +54,8 @@ hero:
 
 
 #-------------------------------
-# Projects Settings
-section_projects_title: 👨🏻‍💻 Projects
+# Products Settings
+section_projects_title: 🛍️ Products
 
 
 #-------------------------------

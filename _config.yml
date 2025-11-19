@@ -25,9 +25,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  products:
     output: true
-    permalink: /project/:slug
+    permalink: /product/:slug
 
 # Pages Path
 defaults:
@@ -47,9 +47,9 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "projects"
+      type: "products"
     values:
-      layout: "project"
+      layout: "product"
 
 sass:
   sass_dir: _sass
