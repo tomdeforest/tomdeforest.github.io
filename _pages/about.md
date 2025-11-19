@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/froever.jpeg'
 ---
 
-Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I’m Tom DeForest, and I'm glad you're here! Small & Simple Things is my dream — my very own Design Studio! Here, I channel my creative energy to [design]({{ site.baseurl }}/projects/), [write]({{ site.baseurl }}/blog/), and share good things.
+Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I’m Tom DeForest, and I'm glad you're here! Small & Simple Things is my dream — my very own Design Studio! Here, I channel my creative energy to [design]({{ site.baseurl }}/products/), [write]({{ site.baseurl }}/blog/), and share good things.
 
 ----
 <div class="about__subtitle">
@@ -15,7 +15,7 @@ Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I�
     <div class="row">
         <div class="col col-6 col-w-6 col-t-12">
             <h2>Family</h2>
-            <p>I am happily married for 25+ years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage <a href="/project/a-walloon-family-in-america">they've left to me and my family</a>.</p>
+            <p>I am happily married for 25+ years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage <a href="/product/a-walloon-family-in-america">they've left to me and my family</a>.</p>
         </div>
         <div class="col col-6 col-w-6 col-t-12">
             <h2>Japan</h2>
@@ -54,6 +54,6 @@ Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! I�
 
 ---
 
-I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [projects]({{site.baseurl}}/projects/).
+I write about these topics on my [blog]({{site.baseurl}}/blog/) and explore them in my [products]({{site.baseurl}}/products/).
 
 Maybe you'd like to [collaborate with me](mailto:hi@smallandsimplethings.org) on your next project.
