@@ -6,6 +6,7 @@ client: Myself
 tools: Procreate, Apple Pages
 date: 2021-05-24 08:01:35 +0300
 image: '/images/jesse-deforest-signature.jpg'
+published: False
 ---
 
 Jesse DeForest inspired his family and many other Walloons to flee religious persecution in Europe and establish a colony in the new world. That colony was New Amsterdam. You know, it was eventually renamed to *New York*. 
