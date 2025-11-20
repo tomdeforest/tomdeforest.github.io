@@ -5,7 +5,7 @@ summary: Meet Detour Sans—the quirky, hand-drawn font that doesn’t always fo
 tools: Glyphs Mini, DrawBot, Python Scripting, Fontself for iPad
 date: 2025-11-18 08:01:35 +0300
 image: '/images/DS-Regular.png'
-purchase-url: https://buy.stripe.com/eVqfZi6pD2b4cSEcH01wY00
+purchase-url: https://buy.stripe.com/aFa14p6N25M3ek855ncs800
 ---
 
 Meet Detour Sans—the quirky, hand-drawn font that doesn’t always follow the rules but gets where it’s going in style. Think of it as the free spirit of sans-serifs, a little off the beaten path but always charming. Perfect for when your design needs a dash of fun, a sprinkle of authenticity, and a font that isn’t afraid to take the scenic route.
