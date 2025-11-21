@@ -46,7 +46,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: <span>Small & Simple Things</span> # Add the "span" tag to highlight text.
+  hero_title: Small & Simple Things # Add the "span" tag to highlight text.
   hero_description: The DIY Design Studio of Tom DeForest
   hero_image: "/images/paper-art-waves.jpg"
   hero_button_contact: Contact
