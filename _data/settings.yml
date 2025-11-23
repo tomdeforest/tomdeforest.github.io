@@ -114,11 +114,18 @@ mailchimp_settings:
   mailchimp_background_image: /images/paper-art-sakura.jpg
 
 gumroad_settings:
-  enable: true
+  enable: false
   gumroad_title: Join my email list
   gumroad_identifier: 3127491671811
   gumroad_input_text: Enter your email address
   gumroad_background_image: /images/paper-art-sakura.jpg
+
+mailto_settings:
+  enable: true
+  mailto_title: Let's be digital penpals!  # optional
+  mailto_address: hi@smallandsimplethings.org  # optional
+  mailto_button_text: Email me!  # optional
+  mailto_background_image: /images/paper-art-sakura.jpg  # optional
 
 #-------------------------------
 # Footer Settings

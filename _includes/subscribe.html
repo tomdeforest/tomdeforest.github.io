@@ -54,3 +54,27 @@
 </div>
 <!-- end subscribe -->
 {% endif %}
+
+{% if site.data.settings.mailto_settings.enable == true %}
+<!-- begin subscribe -->
+<div class="subscribe animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="subscribe__inner">
+          <div class="subscribe__content">
+          {% if site.data.settings.mailto_settings.mailto_title %}
+            <h3 class="subscribe__title">{{ site.data.settings.mailto_settings.mailto_title }}</h3>
+          {% endif %}
+          </div>
+          <a href="mailto:{% if site.data.settings.mailto_settings.mailto_address %}{{ site.data.settings.mailto_settings.mailto_address }}{% else %}hi@smallandsimplethings.org{% endif %}" class="button">{% if site.data.settings.mailto_settings.mailto_button_text %}{{ site.data.settings.mailto_settings.mailto_button_text }}{% else %}Join the Mailing List{% endif %} <i class="fa-solid fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% if site.data.settings.mailto_settings.mailto_background_image %}
+    <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailto_settings.mailto_background_image}}"></div>
+  {% endif %}
+</div>
+<!-- end subscribe -->
+{% endif %}
