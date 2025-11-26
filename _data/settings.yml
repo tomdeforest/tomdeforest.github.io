@@ -125,11 +125,11 @@ mailto_settings:
   mailto_title: Let's be digital penpals!  # optional
   mailto_address: hi@smallandsimplethings.org  # optional
   mailto_button_text: Email me!  # optional
-  mailto_background_image: /images/paper-art-sakura.jpg  # optional
+  # mailto_background_image: /images/paper-art-sakura.jpg  # optional
 
 #-------------------------------
 # Footer Settings
-footer_description: The DIY Design Studio of Tom DeForest.
+footer_description: The Design Studio of Tom DeForest.
 
 
 #-------------------------------
