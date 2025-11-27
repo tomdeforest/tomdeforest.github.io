@@ -5,7 +5,8 @@ summary: A custom font designed for Detour Shirts!
 tools: Glyphs Mini, DrawBot, Python Scripting, Fontself for iPad
 date: 2025-11-18 08:01:35 +0300
 image: '/images/DetourSans-cover.png'
-purchase-url: https://buy.stripe.com/aFa14p6N25M3ek855ncs800
+# purchase-url: https://buy.stripe.com/aFa14p6N25M3ek855ncs800
+purchase-url: https://smllsmpl.gumroad.com/l/detour-sans
 ---
 
 Juna is the one-man t-shirt design show at [Detour Shirts](https://detourshirts.com). Juna and I worked together before his t-shirt design business took off. I wanted to create a font for him that he would love and use often. I'm happy to say that Detour Sans is one of his favorites and he uses daily. Check out Juna’s shop to see Detour Sans in action and shop his extensive gallery of fun, funny, and fantastic designs!
