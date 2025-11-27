@@ -5,6 +5,7 @@ title: Friday Links
 description: A new font. Japan History (Experimental Microsite). Risograph Printing Studio. And more! 
 image: '/images/friday-links-superheavy.webp'
 tags: [type, design, illustration, friday-links]
+published: false
 ---
 
 [SuperHeavy](https://smllsmpl.gumroad.com/l/superheavy-font) is available for purchase starting next week! As a follower of this site, you get early access. Subscribe to my email list (see form below) and you will get a free font! 😉 You can [test drive SuperHeavy on Fontstruct](https://fontstruct.com/fontstructions/show/504902/superheavy-1).

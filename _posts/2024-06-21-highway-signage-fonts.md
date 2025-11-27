@@ -5,6 +5,7 @@ title: Fonts and US Highway Signage
 description: AI and you. Adobe. US Highway fonts.
 image: '/images/friday-links-superheavy.webp'
 tags: [type]
+published: false
 ---
 
 Tips on [remaining relevant in a UX career changed by AI](https://jarango.com/2024/06/09/three-things-i-know/). Has good application for any career, really.

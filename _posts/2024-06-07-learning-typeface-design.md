@@ -5,6 +5,7 @@ title: Learning Typeface Design
 description: A collection of links, mostly to do with learning typeface design. Also, a cool story of restoring a vintage Mac.
 image: '/images/friday-links-superheavy.webp'
 tags: [type]
+published: false
 ---
 
 [A typeface revival story with a watery twist](https://typespec.co.uk/doves-type-revival/). “It was like Cobden-Sanderson had dropped the type from the bridge and straight into my hands.” 

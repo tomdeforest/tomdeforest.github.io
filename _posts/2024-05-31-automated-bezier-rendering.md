@@ -5,6 +5,7 @@ title: Automated Bezier Rendering
 description: Distraction-free technology. The French Open. The Power of Responsibility.
 image: "/images/showBeziers.png"
 tags: [design,type,faith,friday-links]
+published: false
 ---
 
 [Drawbot, Python, and Magic](https://dribbble.com/shots/24260554-DrawBot-Python-and-Magic). My latest DrawBot success.

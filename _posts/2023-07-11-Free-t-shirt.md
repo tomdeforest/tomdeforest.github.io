@@ -5,6 +5,7 @@ title: Free T-shirt Giveaway
 description: This is going to be fun!
 image: '/images/tee-shop-cotton-bureau.png'
 tags: [design]
+published: false
 ---
 
 I love designing t-shirts and selling them on [Cotton Bureau](https://cottonbureau.com/people/small-simple-things)! Usually, you have to pay money for my t-shirts. Today you can [join my email list](#membedded-subscribe-form) for a chance to win a free t-shirt! Crazy!!! Do it now before I change my mind!
