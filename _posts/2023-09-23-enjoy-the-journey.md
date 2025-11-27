@@ -5,6 +5,7 @@ title: Can I become a successful entrepreneur?
 description: It turns out that it really is about enjoying the journey.
 image: '/images/business-rendezvous.jpg'
 tags: [design]
+published: false
 ---
 
 I am a lifelong in-house designer. But I’ve always admired those who successfully start and run their own business. And I’ve wondered, “Could I do that?”
