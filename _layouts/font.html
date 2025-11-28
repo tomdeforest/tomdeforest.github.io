@@ -1,0 +1,141 @@
+---
+layout: default
+---
+
+<script>
+  // Inject @font-face rule immediately so font is available when page renders
+  (function() {
+    const fontFile = "{{ page.font-file }}";
+    const fontName = "{{ page.font-name | default: page.title }}";
+    
+    if (!fontFile || !fontName) return;
+    
+    // Determine format from file extension
+    const ext = fontFile.split('.').pop().toLowerCase();
+    let format = 'woff2';
+    if (ext === 'woff') format = 'woff';
+    else if (ext === 'ttf' || ext === 'otf') format = 'truetype';
+    
+    // Create and inject @font-face rule
+    const style = document.createElement('style');
+    style.textContent = `
+      @font-face {
+        font-family: '${fontName}';
+        src: url('${fontFile}') format('${format}');
+        font-display: swap;
+      }
+    `;
+    document.head.appendChild(style);
+  })();
+</script>
+
+<div class="container">
+
+  <div class="project-info">
+    {% if page.subtitle %}
+    <p class="project-info__subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+    <h1 class="project-info__title">{{ page.title }}</h1>
+  </div>
+
+</div>
+
+<script>
+  // Font file path and metadata from front matter - pass to JavaScript
+  window.fontPreviewData = {
+    fontFile: "{{ page.font-file }}",
+    fontName: "{{ page.font-name | default: page.title }}",
+    fontWeights: "{{ page.font-weights | default: 'Regular' }}"
+  };
+</script>
+
+<!-- Font Preview Section -->
+<div class="font-preview-section">
+  <div class="font-preview-container">
+    <div class="font-preview-display" id="font-preview-display">
+      {{ page.preview-text | default: 'The quick brown fox jumps over the lazy dog' }}
+    </div>
+
+    <div class="font-preview-controls">
+      <div class="font-preview-control-group">
+        <label for="font-preview-text">Text:</label>
+        <input 
+          type="text" 
+          id="font-preview-text" 
+          class="font-preview-input" 
+          value="{{ page.preview-text | default: 'The quick brown fox jumps over the lazy dog' }}"
+          placeholder="Enter text to preview"
+        >
+      </div>
+
+      <div class="font-preview-control-group">
+        <label for="font-size-slider">Size: <span id="font-size-display">48</span>px</label>
+        <input 
+          type="range" 
+          id="font-size-slider" 
+          class="font-preview-slider" 
+          min="12" 
+          max="200" 
+          value="48"
+        >
+      </div>
+
+      {% if page.font-weights %}
+      <div class="font-preview-control-group">
+        <label for="font-weight-select">Weight:</label>
+        <select id="font-weight-select" class="font-preview-select">
+          {% assign weights = page.font-weights | split: ", " %}
+          {% for weight in weights %}
+          <option value="{{ weight | strip }}">{{ weight | strip }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      {% endif %}
+
+      <div class="font-preview-control-group">
+        <button id="theme-toggle" class="font-preview-theme-toggle">
+          <span class="theme-icon">🌙</span>
+          <span class="theme-label">Dark Mode</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="project-left col col-7 col-d-12">
+      <div class="project-content">
+        {{ content }}
+        {% if page.previous.url %}
+        <div class="project__nav">
+          <div class="project__prev">
+            <div class="project__box">
+              <span class="project__nav-info">Next Product</span>
+              <h2 class="project__nav-title">
+                <a href="{{page.previous.url}}" class="project__nav-link">{{page.previous.title}}</a>
+              </h2>
+            </div>
+          </div>
+          <a class="project__nav-image" href="{{page.previous.url}}">
+            <img class="lazy" data-src="{{page.previous.image}}" alt="{{page.previous.title}}">
+          </a>
+        </div>
+        {% endif %}
+      </div>
+
+    </div>
+
+    <div class="project-right col col-5 col-d-12">
+      <aside class="sidebar">
+        {% include sidebar-widgets/widget-project-meta.html %}
+        {% include sidebar-widgets/widget-recent-projects.html %}
+      </aside>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="{{ site.baseurl }}/js/font-preview.js"></script>
