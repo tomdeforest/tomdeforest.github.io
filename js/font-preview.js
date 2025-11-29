@@ -92,10 +92,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const label = themeToggle.querySelector('.theme-label');
     
     if (isDarkMode) {
-      icon.textContent = '☀️';
+      icon.className = 'fa-solid fa-sun theme-icon';
       label.textContent = 'Light Mode';
     } else {
-      icon.textContent = '🌙';
+      icon.className = 'fa-solid fa-moon theme-icon';
       label.textContent = 'Dark Mode';
     }
   }
