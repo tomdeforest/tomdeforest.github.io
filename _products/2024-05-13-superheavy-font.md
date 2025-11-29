@@ -1,4 +1,5 @@
 ---
+layout: font
 title: SuperHeavy
 subtitle: Font
 summary: Hey there! I'm SuperHeavy, the typeface with unshakable confidence!
@@ -6,6 +7,13 @@ tools: Fontstruct
 date: 2024-05-13 08:01:35 +0300
 image: '/images/SMLLSMPL-SEMI-02.png'
 purchase-url: https://smllsmpl.gumroad.com/l/superheavy-font
+# Font-specific settings
+font-files:
+    - path: /fonts/SuperHeavy-Regular.woff2
+      weight: Regular
+# font-name: TRAX
+preview-text: "Uranium has an atomic weight of approximately 238.029 g/mol. "
+font-weights: Regular
 ---
 
 Nice to meet you! I'm the new kid on the design playground. Yeah, I'm a little overweight, but that just means there more of me to love!  
