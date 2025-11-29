@@ -153,26 +153,18 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 16px;
+//   padding: 10px 16px;
   height: 40px;
-  background: var(--primary-color);
-  color: #fff;
+//   background: var(--primary-color);
+//   color: #fff;
   border: none;
   border-radius: 4px;
   font-size: 14px;
-  font-weight: 600;
+//   font-weight: 600;
   cursor: pointer;
   transition: opacity 0.2s ease;
   white-space: nowrap;
   box-sizing: border-box;
-
-  &:hover {
-    opacity: 0.9;
-  }
-
-  &:active {
-    opacity: 0.8;
-  }
 
   .theme-icon {
     font-size: 16px;
