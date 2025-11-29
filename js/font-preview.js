@@ -2,12 +2,24 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Get font data from window object
   const fontData = window.fontPreviewData || {};
-  const fontFile = fontData.fontFile;
   const fontName = fontData.fontName;
+  const fontFilesData = fontData.fontFiles;
+  const fontFile = fontData.fontFile;
   const fontWeightsStr = fontData.fontWeights || 'Regular';
 
-  if (!fontFile || !fontName) {
-    console.warn('Font preview: Missing font-file or font-name in front matter');
+  if (!fontName) {
+    console.warn('Font preview: Missing font-name in front matter');
+    return;
+  }
+
+  // Support both old single-file format and new multi-file array format
+  let fontFiles = [];
+  if (fontFilesData && Array.isArray(fontFilesData) && fontFilesData.length > 0) {
+    fontFiles = fontFilesData;
+  } else if (fontFile) {
+    fontFiles = [{ path: fontFile, weight: 'Regular' }];
+  } else {
+    console.warn('Font preview: Missing font-file or font-files in front matter');
     return;
   }
 
@@ -22,8 +34,13 @@ document.addEventListener('DOMContentLoaded', function() {
   const fontWeightSelect = document.getElementById('font-weight-select');
   const themeToggle = document.getElementById('theme-toggle');
 
-  // Load and apply font
-  loadFont(fontFile, fontName, fontWeights);
+  // Font is already loaded by inline script in layout
+  // Just ensure the font is applied to preview display
+  if (previewDisplay) {
+    const defaultWeight = fontFiles[0].weight || 'Regular';
+    const fontFamilyName = `'${fontName}-${defaultWeight}', monospace`;
+    previewDisplay.style.fontFamily = fontFamilyName;
+  }
 
   // Text input handler
   if (previewText && previewDisplay) {
@@ -49,11 +66,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  // Font weight handler
+  // Font weight handler - switches between different font files
   if (fontWeightSelect && previewDisplay) {
     fontWeightSelect.addEventListener('change', function() {
-      const weight = this.value;
-      applyFontWeight(weight, previewDisplay);
+      const selectedWeight = this.value;
+      applyFontWeight(selectedWeight, fontName);
     });
   }
 
@@ -125,8 +142,11 @@ document.addEventListener('DOMContentLoaded', function() {
     return weightMap[normalized] || 400;
   }
 
-  function applyFontWeight(weight, element) {
-    const weightNum = getWeightNumber(weight);
-    element.style.fontWeight = weightNum;
+  function applyFontWeight(selectedWeight, fontName) {
+    // Switch to the unique font-family for this weight/style
+    if (previewDisplay) {
+      const fontFamilyName = `'${fontName}-${selectedWeight}', monospace`;
+      previewDisplay.style.fontFamily = fontFamilyName;
+    }
   }
 });

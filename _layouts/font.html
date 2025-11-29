@@ -5,26 +5,52 @@ layout: default
 <script>
   // Inject @font-face rule immediately so font is available when page renders
   (function() {
-    const fontFile = "{{ page.font-file }}";
     const fontName = "{{ page.font-name | default: page.title }}";
     
-    if (!fontFile || !fontName) return;
+    if (!fontName) return;
     
-    // Determine format from file extension
-    const ext = fontFile.split('.').pop().toLowerCase();
-    let format = 'woff2';
-    if (ext === 'woff') format = 'woff';
-    else if (ext === 'ttf' || ext === 'otf') format = 'truetype';
+    // Support both old single-file format and new multi-file array format
+    const fontFilesData = {{ page.font-files | jsonify }};
+    const fontFile = "{{ page.font-file }}";
     
-    // Create and inject @font-face rule
+    let fontFiles = [];
+    if (fontFilesData && Array.isArray(fontFilesData) && fontFilesData.length > 0) {
+      // New format: array of file objects
+      fontFiles = fontFilesData;
+    } else if (fontFile) {
+      // Old format: single file - convert to array format for consistency
+      fontFiles = [{ path: fontFile, weight: 'Regular' }];
+    } else {
+      return;
+    }
+    
+    // Create and inject @font-face rules
     const style = document.createElement('style');
-    style.textContent = `
-      @font-face {
-        font-family: '${fontName}';
-        src: url('${fontFile}') format('${format}');
-        font-display: swap;
-      }
-    `;
+    let fontFaceRules = '';
+    
+    fontFiles.forEach(file => {
+      const filePath = file.path || file;
+      const weight = file.weight || 'Regular';
+      
+      // Determine format from file extension
+      const ext = filePath.split('.').pop().toLowerCase();
+      let format = 'woff2';
+      if (ext === 'woff') format = 'woff';
+      else if (ext === 'ttf' || ext === 'otf') format = 'truetype';
+      
+      // Create a unique font-family name for each weight/style
+      const fontFamilyName = `${fontName}-${weight}`;
+      
+      fontFaceRules += `
+        @font-face {
+          font-family: '${fontFamilyName}';
+          src: url('${filePath}') format('${format}');
+          font-display: block;
+        }
+      `;
+    });
+    
+    style.textContent = fontFaceRules;
     document.head.appendChild(style);
   })();
 </script>
@@ -43,6 +69,7 @@ layout: default
 <script>
   // Font file path and metadata from front matter - pass to JavaScript
   window.fontPreviewData = {
+    fontFiles: {{ page.font-files | jsonify }},
     fontFile: "{{ page.font-file }}",
     fontName: "{{ page.font-name | default: page.title }}",
     fontWeights: "{{ page.font-weights | default: 'Regular' }}"
@@ -82,7 +109,7 @@ layout: default
 
       {% if page.font-weights %}
       <div class="font-preview-control-group">
-        <label for="font-weight-select">Weight:</label>
+        <label for="font-weight-select">Style:</label>
         <select id="font-weight-select" class="font-preview-select">
           {% assign weights = page.font-weights | split: ", " %}
           {% for weight in weights %}
