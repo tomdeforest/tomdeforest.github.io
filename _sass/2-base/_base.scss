@@ -55,6 +55,7 @@ h6 {
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
   color: var(--heading-font-color);
+  text-wrap: balance;
 }
 
 h1 {
