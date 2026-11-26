@@ -12,6 +12,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Dockerfile
+  - docker-compose.yml
+  - README.md
+  - node_modules/
+  - vendor/
+
 paginate: 6
 paginate_path: "/page/:num"
 
