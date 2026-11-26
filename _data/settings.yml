@@ -138,8 +138,8 @@ footer_menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Products"
+      url: "/products/"
     - title: "Blog"
       url: "/blog/"
     - title: "About"

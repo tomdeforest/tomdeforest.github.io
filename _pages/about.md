@@ -15,7 +15,7 @@ Welcome to [smallandsimplethings.org](https://www.smallandsimplethings.org)! Iâ€
     <div class="row">
         <div class="col col-6 col-w-6 col-t-12">
             <h2>Family</h2>
-            <p>I am happily married for 25+ years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage <a href="/product/a-walloon-family-in-america">they've left to me and my family</a>.</p>
+            <p>I am happily married for 25+ years. I love my wife and our five daughters. I know a little about my ancestors. I treasure the heritage they've left to me and my family.</p>
         </div>
         <div class="col col-6 col-w-6 col-t-12">
             <h2>Japan</h2>
