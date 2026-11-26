@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", function() {
       window.addEventListener("resize", initTestimonialsSlider, { once: true });
       return;
     }
-    tns({
+    var slider = tns({
       container: ".my-slider",
       items: 3,
       slideBy: 1,
@@ -150,6 +150,38 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       }
     });
+
+    fixSliderLiveRegion(slider);
+  }
+
+  // tiny-slider's screen-reader status counts the cloned slides it adds for
+  // looping ("slide 6 to 8 of 5"). Rewrite it from the real slide numbers
+  // whenever the library updates it.
+  function fixSliderLiveRegion(slider) {
+    var current = document.querySelector(".tns-liveregion .current");
+    if (!slider || !current) return;
+
+    function text() {
+      var info = slider.getInfo(),
+        total = info.slideCount,
+        start = info.displayIndex,
+        shown = Math.min(info.items, total),
+        slides = [];
+
+      for (var i = 0; i < shown; i++) slides.push(((start - 1 + i) % total) + 1);
+
+      if (shown === 1) return slides[0] + "";
+      // A plain range unless the visible cards wrap past the last slide.
+      return slides[shown - 1] > start ? start + " to " + slides[shown - 1] : slides.join(", ");
+    }
+
+    function update() {
+      var t = text();
+      if (current.textContent !== t) current.textContent = t;
+    }
+
+    new MutationObserver(update).observe(current, { childList: true, characterData: true, subtree: true });
+    update();
   }
 
   if (document.querySelector(".my-slider")) {
