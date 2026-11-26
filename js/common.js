@@ -121,8 +121,14 @@ document.addEventListener("DOMContentLoaded", function() {
   /* ============================
   // Testimonials Slider
   ============================ */
-  if (document.querySelector(".my-slider")) {
-    var slider = tns({
+  // tiny-slider throws if it starts while the page has no width (e.g. a
+  // hidden or zero-size frame), so wait until there is a width to measure.
+  function initTestimonialsSlider() {
+    if (!window.innerWidth) {
+      window.addEventListener("resize", initTestimonialsSlider, { once: true });
+      return;
+    }
+    tns({
       container: ".my-slider",
       items: 3,
       slideBy: 1,
@@ -144,6 +150,10 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       }
     });
+  }
+
+  if (document.querySelector(".my-slider")) {
+    initTestimonialsSlider();
   }
 
 
