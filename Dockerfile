@@ -2,7 +2,7 @@
 FROM ruby:3.3-slim
 
 RUN apt-get update \
- && apt-get install -y --no-install-recommends build-essential git \
+ && apt-get install -y --no-install-recommends build-essential git libssl-dev \
  && rm -rf /var/lib/apt/lists/*
 
 # Primer SCSS in the github-pages gem fails to compile under an ASCII locale.
