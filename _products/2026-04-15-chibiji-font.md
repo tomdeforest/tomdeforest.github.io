@@ -1,6 +1,6 @@
 ---
 layout: font
-title: Chibji
+title: Chibiji
 subtitle: Font
 summary: Chibiji is a soft, bouncy display typeface, inspired by Japanese kawaii culture.
 tools: Glyphs, Fontself for iPad
